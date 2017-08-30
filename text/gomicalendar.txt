@@ -1,0 +1,44 @@
+﻿#
+# ◆１カラム目が # の行はコメントとなる．
+#   【注意】HTMLのコメント <!-- ... --> と誤解しないこと．
+# ◆データ定義の形式は
+#     キー:
+#       文字列データ
+# ◆１カラム目から始まりコロンで終る行は後続する文字列データのキーと解釈される．
+# ◆文字列データは１カラム目が半角スペースかタブで始まらなければならない．
+# ◆文字列データ内の %d はループカウンターに置き換えられる．
+# ◆文字列データ内の ${xyz} は XML の対応する文字列に置き換えられる．
+#
+
+# gomisyusyubi -- mySel
+mySel:
+  ${dataroot.gomisyusyubi[%d].gyou}
+
+# gomisyusyubir -- myList
+myList:
+  <li data-filtertext=${dataroot.gomisyusyubi[%d].keyword}>
+    <a href='#no%d'>${dataroot.gomisyusyubi[%d].name}</a>
+  </li>
+
+# gomisyusyubi -- myContents
+myContents:
+  <div data-role='page' id='no%d' data-url='no%d' data-add-back-btn='true'>
+    <div data-role='header' align='center'>
+      <image src='image/gomicalendarimage/4_1_gomicalendar.png' width='200' alt='gomicalendar'>
+    </div>
+    <div data-role='content'>
+# ▼▼▼▼▼以下を変更してください。<h4>の中の<br>は改行です。▼▼▼▼▼
+      <h2>${dataroot.gomisyusyubi[%d].name}</h2>
+      <h4>可燃ごみ：${dataroot.gomisyusyubi[%d].kubun1}曜日</h4>
+      <h4>プラ容器：毎週${dataroot.gomisyusyubi[%d].kubun2}曜日</h4>
+      <h4>不燃ごみ（月２回）：${dataroot.gomisyusyubi[%d].kubun3}曜日</h4>
+      <h4>資源ごみ（月２回）：${dataroot.gomisyusyubi[%d].kubun4}曜日</h4>
+      <h5>　（資源ごみ…かん,びん,ﾍﾟｯﾄﾎﾞﾄﾙ,有害,ｽﾌﾟﾚｰかん等）</h5>
+      <h4>備考：${dataroot.gomisyusyubi[%d].bikou}</h4>
+      <h4><br>資源を次の世代に。。。</h4>
+# ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+    </div>
+    <div data-role='footer' data-position='fixed' align='center'>
+    </div>
+  </div>
+

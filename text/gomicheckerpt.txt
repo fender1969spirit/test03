@@ -1,0 +1,40 @@
+﻿#
+# ・１カラム目が # の行はコメントとなる．
+#   【注意】HTMLのコメント <!-- ... --> と誤解しないこと．
+# ・データ定義の形式は
+#     キー:
+#       文字列データ
+# ・１カラム目から始まりコロンで終る行は後続する文字列データのキーと解釈される．
+# ・文字列データは１カラム目が半角スペースかタブで始まらなければならない．
+# ・文字列データ内の %d はループカウンターに置き換えられる．
+# ・文字列データ内の ${xyz} は XML の対応する文字列に置き換えられる．
+# ・このデータは ■■■■■ポルトガル語版■■■■■です．
+#
+
+# gomi -- mySel
+mySel:
+  ${dataroot.gomi[%d].bunrui}
+
+# gomi -- myList
+myList:
+  <li data-filtertext=${dataroot.gomi[%d].keyword}>
+    <a href='#no%d'>${dataroot.gomi[%d].name}</a>
+  </li>
+
+# gomi -- myContents
+myContents:
+  <div data-role='page' id='no%d' data-url='no%d' data-add-back-btn='true'>
+    <div data-role='header' align='center'>
+      <image src='image/gomicheckerimage/4_1_gomichecker.png' width='200' alt='gomichecker'>
+    </div>
+    <div data-role='content'>
+# ▼▼▼▼▼以下を変更してください。▼▼▼▼▼
+      <h3>Itens:${dataroot.gomi[%d].name}</h3>
+      <h3>Categorías de lixos:${dataroot.gomi[%d].kubun}</h3>
+      <p>Atenção:${dataroot.gomi[%d].zyouken}</p>
+      <h4><br>資源を次の世代に。。。</h4>
+# ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+    </div>
+    <div data-role='footer' data-position='fixed' align='center'>
+    </div>
+  </div>

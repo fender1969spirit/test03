@@ -1,0 +1,4316 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataroot>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>absorvente interno</name>
+		<yomi>absorvente interno</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Incinerar por questões higiênicas.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>absorvente interno,absorvente interno</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>absorventes femininos</name>
+		<yomi>absorventes femininos</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Incinerar por questões higiênicas.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>absorventes femininos,absorventes femininos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>absorventes higiênicos</name>
+		<yomi>absorventes higiênicos</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Incinerar por questões higiênicas.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>absorventes higiênicos,absorventes higiênicos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>acolchoados</name>
+		<yomi>acolchoados</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>acolchoados,acolchoados</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>adesivo</name>
+		<yomi>adesivo</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>adesivo,adesivo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>agenda eletrônica</name>
+		<yomi>agenda eletrônica</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>agenda eletrônica,agenda eletrônica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>agulha</name>
+		<yomi>agulha</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita crepe para que não espete.</zyouken>
+		<bunrui>Roupas</bunrui>
+		<keyword>agulha,agulha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>agulha de injeção</name>
+		<yomi>agulha de injeção</yomi>
+		<kubun>E consultar uma instituição médica</kubun>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>agulha de injeção,agulha de injeção</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>álbuns (fotos)</name>
+		<yomi>álbuns (fotos)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>álbuns (fotos),álbuns (fotos)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>almofadas</name>
+		<yomi>almofadas</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Até do tamanho do saco de lixo especifico.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>almofadas,almofadas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>almofadas</name>
+		<yomi>almofadas</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>almofadas,almofadas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>altar budista</name>
+		<yomi>altar budista</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>altar budista,altar budista</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>amianto</name>
+		<yomi>amianto</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>amianto,amianto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>animal de estimação morto</name>
+		<yomi>animal de estimação morto</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>É necessário pagar taxa extra.</zyouken>
+		<bunrui>Animais</bunrui>
+		<keyword>animal de estimação morto,animal de estimação morto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>antena</name>
+		<yomi>antena</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>antena,antena</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>ânus artificial</name>
+		<yomi>ânus artificial</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>ânus artificial,ânus artificial</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aparelho aquecedor de água</name>
+		<yomi>aparelho aquecedor de água</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>aparelho aquecedor de água,aparelho aquecedor de água</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aparelho da pressão ou esfigmomamômetro</name>
+		<yomi>aparelho da pressão ou esfigmomamômetro</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Os aparelhos doméstico que contém mercúrio devem ser levados diretamente ao centro de limpeza (é necessário pagar taxa extra).Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>aparelho da pressão ou esfigmomamômetro,aparelho da pressão ou esfigmomamômetro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aparelho de som</name>
+		<yomi>aparelho de som</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>aparelho de som,aparelho de som</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aparelho de vídeo-cassete</name>
+		<yomi>aparelho de vídeo-cassete</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>aparelho de vídeo-cassete,aparelho de vídeo-cassete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aparelhos elétricos</name>
+		<yomi>aparelhos elétricos</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". Exceto televisores, máquinas de lavar, condicionadores de ar, geladeiras, freezers, secadoras de roupas.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>aparelhos elétricos,aparelhos elétricos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aquário</name>
+		<yomi>aquário</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Animais</bunrui>
+		<keyword>aquário,aquário</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aquario redondo</name>
+		<yomi>aquario redondo</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>aquario redondo,aquario redondo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aquecedor</name>
+		<yomi>aquecedor</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Esvazie o reservatório de querosene e as pilhas devem ser descartadas no "lixo tóxico".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>aquecedor,aquecedor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aquecedor de halogéneo</name>
+		<yomi>aquecedor de halogéneo</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>aquecedor de halogéneo,aquecedor de halogéneo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>ar condicionado</name>
+		<yomi>ar condicionado</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Leve o revendedor. O descarte pode também ser solicitado a uma empresa de transporte de resíduos. ※É necessário pagar taxa de reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>ar condicionado,ar condicionado</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>arame</name>
+		<yomi>arame</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Corte em tamanhos de aproximadamente 1 metro.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>arame,arame</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>arame farpado</name>
+		<yomi>arame farpado</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>arame farpado,arame farpado</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>arcenaria</name>
+		<yomi>arcenaria</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>arcenaria,arcenaria</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>ardósia (telhados)</name>
+		<yomi>ardósia (telhados)</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Mas, exceto os resíduos de ardósia demolidos por empresas. Somente pequenas quantidades. Deve ter menos de 180 cm.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>ardósia (telhados),ardósia (telhados)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>areia para gato</name>
+		<yomi>areia para gato</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Incinerar por questões higiênicas. (Remova as fezes na privada)</zyouken>
+		<bunrui>Animais</bunrui>
+		<keyword>areia para gato,areia para gato</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>argamassa</name>
+		<yomi>argamassa</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Mas, somente pequenas quantidades. Quando demolido por empresas, solicite à empresa para que dê o devido fim.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>argamassa,argamassa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>argila</name>
+		<yomi>argila</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Os feito de papel descarte no "lixo combustível".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>argila,argila</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>armadura</name>
+		<yomi>armadura</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>armadura,armadura</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>armário de metal</name>
+		<yomi>armário de metal</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos menores que 180 cm. Maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>armário de metal,armário de metal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>artigos de papelaria</name>
+		<yomi>artigos de papelaria</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Objetos grandes devem ser descartados no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>artigos de papelaria,artigos de papelaria</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>asbesto (amianto)</name>
+		<yomi>asbesto (amianto)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>asbesto (amianto),asbesto (amianto)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>asfalto</name>
+		<yomi>asfalto</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>asfalto,asfalto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>aspirador de pó</name>
+		<yomi>aspirador de pó</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>aspirador de pó,aspirador de pó</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>assento para crianças (carro)</name>
+		<yomi>assento para crianças (carro)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Veiculos</bunrui>
+		<keyword>assento para crianças (carro),assento para crianças (carro)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bacia (cozinha)</name>
+		<yomi>bacia (cozinha)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>bacia (cozinha),bacia (cozinha)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bala (arma de fogo)</name>
+		<yomi>bala (arma de fogo)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor ou uma empresa especializada.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>bala (arma de fogo),bala (arma de fogo)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>balança de gordura corporal</name>
+		<yomi>balança de gordura corporal</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>balança de gordura corporal,balança de gordura corporal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>balança de peso corporal</name>
+		<yomi>balança de peso corporal</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>balança de peso corporal,balança de peso corporal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>balde</name>
+		<yomi>balde</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>balde,balde</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bandeja</name>
+		<yomi>bandeja</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>As bandejas de madeira devem ser descartados no "lixo combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>bandeja,bandeja</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bandeja de isopor</name>
+		<yomi>bandeja de isopor</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Bandejas, etc. feitos de isopor. Lave bem e leve ao local de coleta do mercado ou descarte no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>bandeja de isopor,bandeja de isopor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>banheira aquecida com aquecedor</name>
+		<yomi>banheira aquecida com aquecedor</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>banheira aquecida com aquecedor,banheira aquecida com aquecedor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>barbeador elétrico</name>
+		<yomi>barbeador elétrico</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>barbeador elétrico,barbeador elétrico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bastão (beisebol)</name>
+		<yomi>bastão (beisebol)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>bastão (beisebol),bastão (beisebol)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bastão (uso culinário)</name>
+		<yomi>bastão (uso culinário)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Os bastões grandes devem ser descartados no "lixo de grande porte".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>bastão (uso culinário),bastão (uso culinário)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bastão de esqui</name>
+		<yomi>bastão de esqui</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>bastão de esqui,bastão de esqui</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bateria</name>
+		<yomi>bateria</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>O posto de gasolina e as agências vendedoras de carros também fazem o tratamento e eliminação. Não pode ser descartado no "lixo de grande porte".</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>bateria,bateria</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bateria em forma de botão</name>
+		<yomi>bateria em forma de botão</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>bateria em forma de botão,bateria em forma de botão</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>baterias recarregáveis</name>
+		<yomi>baterias recarregáveis</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>As baterias usadas devem ser colocadas dentro da caixa de reciclagem das lojas colaboradoras da reciclagem (lojas de eletroeletrônicas, home center, etc.)</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>baterias recarregáveis,baterias recarregáveis</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bengala</name>
+		<yomi>bengala</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>As bengalas de madeira devem ser quebradas e descartadas no "lixo combustível". As de plástico ou de alumínio no "lixo não combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>bengala,bengala</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bichos de pelúcia</name>
+		<yomi>bichos de pelúcia</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Até o tamanho do saco de lixo determinado.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>bichos de pelúcia,bichos de pelúcia</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bicicleta</name>
+		<yomi>bicicleta</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Veiculos</bunrui>
+		<keyword>bicicleta,bicicleta</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bicicleta</name>
+		<yomi>bicicleta</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>bicicleta,bicicleta</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>binóculos</name>
+		<yomi>binóculos</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>binóculos,binóculos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bloco de concreto</name>
+		<yomi>bloco de concreto</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Somente os de suporte de varal. Somente pequenas quantidades.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>bloco de concreto,bloco de concreto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>boias e similares</name>
+		<yomi>boias e similares</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte após esvaziar o ar.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>boias e similares,boias e similares</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bola</name>
+		<yomi>bola</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte após esvaziar o ar.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>bola,bola</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bola de boliche</name>
+		<yomi>bola de boliche</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>bola de boliche,bola de boliche</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bolinho de ácido bórico (veneno para baratas)</name>
+		<yomi>bolinho de ácido bórico (veneno para baratas)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>bolinho de ácido bórico (veneno para baratas),bolinho de ácido bórico (veneno para baratas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bolsa da escola (randoseru)</name>
+		<yomi>bolsa da escola (randoseru)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>bolsa da escola (randoseru),bolsa da escola (randoseru)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bolsa de água quente</name>
+		<yomi>bolsa de água quente</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>bolsa de água quente,bolsa de água quente</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bolsa de golfe</name>
+		<yomi>bolsa de golfe</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>bolsa de golfe,bolsa de golfe</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bomba de querosene</name>
+		<yomi>bomba de querosene</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Remova as pilhas sem falta. As pilhas devem ser descartadas no "lixo tóxico". </zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>bomba de querosene,bomba de querosene</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bomba para câmara de ar (bicicleta)</name>
+		<yomi>bomba para câmara de ar (bicicleta)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte no "lixo não-combustível".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>bomba para câmara de ar (bicicleta),bomba para câmara de ar (bicicleta)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>borrifador</name>
+		<yomi>borrifador</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>borrifador,borrifador</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>botijão de gás</name>
+		<yomi>botijão de gás</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Devolva ou solicite o descarte ao revendedor de gás.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>botijão de gás,botijão de gás</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>braseira ou botija para aquecer os pés</name>
+		<yomi>braseira ou botija para aquecer os pés</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável. Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>braseira ou botija para aquecer os pés,braseira ou botija para aquecer os pés</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>braseiro</name>
+		<yomi>braseiro</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>braseiro,braseiro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>brinquedos</name>
+		<yomi>brinquedos</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>brinquedos,brinquedos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>brochura</name>
+		<yomi>brochura</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte com as revistas e amarre. Os que contém fotos descarte no "lixo combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>brochura,brochura</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>bússola</name>
+		<yomi>bússola</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>bússola,bússola</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cabide</name>
+		<yomi>cabide</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>cabide,cabide</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cabo elétrico</name>
+		<yomi>cabo elétrico</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Corte em pedaços de menos de 1 metro de comprimento. Fios com tambor também devem ser cortados para serem descartados.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>cabo elétrico,cabo elétrico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cadeira</name>
+		<yomi>cadeira</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>cadeira,cadeira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cadeira de rodas</name>
+		<yomi>cadeira de rodas</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>cadeira de rodas,cadeira de rodas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cadeira sem pernas</name>
+		<yomi>cadeira sem pernas</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>cadeira sem pernas,cadeira sem pernas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caderno</name>
+		<yomi>caderno</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte com as revistas e amarre.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>caderno,caderno</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cafeteira</name>
+		<yomi>cafeteira</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>cafeteira,cafeteira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cairo descartável (aquecedor de bolso)</name>
+		<yomi>cairo descartável (aquecedor de bolso)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Devido o risco de provocar a ignição espontânea, não descarte o kairo não-utilizado (sem uso). 
+A embalagem de plástico deve ser descartada no lixo de "plástico reciclável".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>cairo descartável (aquecedor de bolso),cairo descartável (aquecedor de bolso)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de desumidificação ou dessecantes</name>
+		<yomi>caixa de desumidificação ou dessecantes</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>caixa de desumidificação ou dessecantes,caixa de desumidificação ou dessecantes</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de doces (papel)</name>
+		<yomi>caixa de doces (papel)</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Desmanche e dobre a caixa e descarte como [revistas e similares] no dia de coleta de papeis velhos para reciclagem.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>caixa de doces (papel),caixa de doces (papel)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de leite</name>
+		<yomi>caixa de leite</yomi>
+		<kubun>Coletado pelo revendedor/
+Coleta de Papeis Velhos</kubun>
+		<zyouken>Corte e abra a caixa e leve ao revendedor ou descarte no dia de "coleta de papeis velhos" para reciclagem.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>caixa de leite,caixa de leite</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de sabão em pó (papel)</name>
+		<yomi>caixa de sabão em pó (papel)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>A alça e a colher de medição devem ser descartados no "lixo não combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>caixa de sabão em pó (papel),caixa de sabão em pó (papel)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de saquê</name>
+		<yomi>caixa de saquê</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>caixa de saquê,caixa de saquê</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de som</name>
+		<yomi>caixa de som</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>caixa de som,caixa de som</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa de tissue</name>
+		<yomi>caixa de tissue</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Retire o plástico, dobre e descarte nas "revistas e similares".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>caixa de tissue,caixa de tissue</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixa térmica</name>
+		<yomi>caixa térmica</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>caixa térmica,caixa térmica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixas de suco de papel</name>
+		<yomi>caixas de suco de papel</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Mesmo aqueles que tiverem revestimento interno de alumínio devem ser descartados no "lixo combustível".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>caixas de suco de papel,caixas de suco de papel</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caixinha de bebidas (sucos)</name>
+		<yomi>caixinha de bebidas (sucos)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Mesmo aqueles que tiverem revestimento interno de alumínio devem ser descartados no "lixo combustível".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>caixinha de bebidas (sucos),caixinha de bebidas (sucos)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>calçados</name>
+		<yomi>calçados</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>calçados,calçados</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>calculadora</name>
+		<yomi>calculadora</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>calculadora,calculadora</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caldeira</name>
+		<yomi>caldeira</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Somente os de uso doméstico. No entanto, se a troca for solicitada a empresa especializada, a mesma deve recolher a caldeira.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>caldeira,caldeira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caldeirão</name>
+		<yomi>caldeirão</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>caldeirão,caldeirão</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>calendário</name>
+		<yomi>calendário</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte com as revistas e amarre. A parte de metal deve ser removida e descartada no "lixo não-combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>calendário,calendário</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>calota da roda</name>
+		<yomi>calota da roda</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Veiculos</bunrui>
+		<keyword>calota da roda,calota da roda</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>câmera</name>
+		<yomi>câmera</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>câmera,câmera</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>câmeras</name>
+		<yomi>câmeras</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>câmeras,câmeras</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caneta de ponta de feltro (sain-pen)</name>
+		<yomi>caneta de ponta de feltro (sain-pen)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>caneta de ponta de feltro (sain-pen),caneta de ponta de feltro (sain-pen)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>caneta esferográfica</name>
+		<yomi>caneta esferográfica</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>caneta esferográfica,caneta esferográfica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>canudinho</name>
+		<yomi>canudinho</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte o saquinho no "lixo combustível" se for de papel e no "lixo de plástico reciclável" se for de plástico.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>canudinho,canudinho</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cão morto</name>
+		<yomi>cão morto</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Animais</bunrui>
+		<keyword>cão morto,cão morto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>capa (chuva)</name>
+		<yomi>capa (chuva)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>capa (chuva),capa (chuva)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>capa de chuva</name>
+		<yomi>capa de chuva</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>capa de chuva,capa de chuva</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>capacete</name>
+		<yomi>capacete</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>capacete,capacete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>carregador de baterias</name>
+		<yomi>carregador de baterias</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>carregador de baterias,carregador de baterias</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>carrinho</name>
+		<yomi>carrinho</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>carrinho,carrinho</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>carrinho para bebê</name>
+		<yomi>carrinho para bebê</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>carrinho para bebê,carrinho para bebê</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>carrinho para bebê</name>
+		<yomi>carrinho para bebê</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>carrinho para bebê,carrinho para bebê</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>carriola (carrinho de mão)</name>
+		<yomi>carriola (carrinho de mão)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>carriola (carrinho de mão),carriola (carrinho de mão)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cartão</name>
+		<yomi>cartão</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Cartões de crédito, etc.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>cartão,cartão</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cartão de visita</name>
+		<yomi>cartão de visita</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Coloque no envelope, junte com as revistas e amarre.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>cartão de visita,cartão de visita</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cartão postal</name>
+		<yomi>cartão postal</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte com as revistas e amarre. As que contém fotos descarte no "lixo combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>cartão postal,cartão postal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cartaz</name>
+		<yomi>cartaz</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte e amarre com as revistas.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>cartaz,cartaz</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cartela de medicamentos (cápsulas)</name>
+		<yomi>cartela de medicamentos (cápsulas)</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>cartela de medicamentos (cápsulas),cartela de medicamentos (cápsulas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cartucho de gás de fogão portátil</name>
+		<yomi>cartucho de gás de fogão portátil</yomi>
+		<kubun>Sprays, cilindros e similares</kubun>
+		<zyouken>Perfure sem falta e descarte após esvaziá-lo totalmente.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>cartucho de gás de fogão portátil,cartucho de gás de fogão portátil</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>casaco</name>
+		<yomi>casaco</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Descarte após cortar em pedaços de menos de 1 metro de comprimento.</zyouken>
+		<bunrui>Roupas</bunrui>
+		<keyword>casaco,casaco</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>CD e LD player</name>
+		<yomi>CD e LD player</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.Coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>CD e LD player,CD e LD player</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>CD, LD, MD, DVD</name>
+		<yomi>CD, LD, MD, DVD</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>As caixas também podem ser descartadas no "lixo não combustível".</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>CD, LD, MD, DVD,CD, LD, MD, DVD</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>celular</name>
+		<yomi>celular</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Coletado pelo revendedor</kubun>
+		<zyouken>O recarregador de bateria pode ser descartado nas caixas coletoras de eletrodomésticos de pequeno porte ou nas lojas especializadas. </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>celular,celular</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cestos</name>
+		<yomi>cestos</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Os cestos feito de bambu devem ser descartados no "lixo combustível".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>cestos,cestos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>chaleira</name>
+		<yomi>chaleira</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>chaleira,chaleira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>chapa ondulada</name>
+		<yomi>chapa ondulada</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Aqueles com comprimento maiores devem ser cortado em pedaços menores.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>chapa ondulada,chapa ondulada</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>chinelos surippa</name>
+		<yomi>chinelos surippa</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>chinelos surippa,chinelos surippa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cigarro</name>
+		<yomi>cigarro</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Jogue água para apagar completamente o fogo e descarte em seguida.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>cigarro,cigarro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cimento</name>
+		<yomi>cimento</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Somente quando usados em residências (pequenas quantidades).</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>cimento,cimento</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cinza</name>
+		<yomi>cinza</yomi>
+		<kubun>Consulta a um processador</kubun>
+		<zyouken>A incineração doméstica é proibida por lei.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>cinza,cinza</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cinzas da incineração</name>
+		<yomi>cinzas da incineração</yomi>
+		<kubun>Consultar um empresa de tratamento</kubun>
+		<zyouken>A incineração doméstica é proibida por lei.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>cinzas da incineração,cinzas da incineração</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>clipes</name>
+		<yomi>clipes</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>clipes,clipes</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cobertor elétrico</name>
+		<yomi>cobertor elétrico</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>cobertor elétrico,cobertor elétrico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cobertores</name>
+		<yomi>cobertores</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>cobertores,cobertores</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cofre</name>
+		<yomi>cofre</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Aqueles de uso doméstico (que podem ser carregados por 2 pessoas) podem ser descartados no "lixo de grande porte". Exceto o citado, solicite a coleta a uma empresa especializada.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>cofre,cofre</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>colchão</name>
+		<yomi>colchão</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Somente aqueles que não possuem molas (metal). Os colchões de molas devem ser levados diretamente ao centro de limpeza.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>colchão,colchão</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>colchão de molas</name>
+		<yomi>colchão de molas</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>É necessário taxa extra. Não pode ser descartado no "lixo de grande porte".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>colchão de molas,colchão de molas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>colher, garfo</name>
+		<yomi>colher, garfo</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>colher, garfo,colher, garfo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>comida enlatada para animais de estimação</name>
+		<yomi>comida enlatada para animais de estimação</yomi>
+		<kubun>Latas Vazias (AKIKAN)</kubun>
+		<zyouken>Esvazie completamente o conteúdo e lave.</zyouken>
+		<bunrui>Animais</bunrui>
+		<keyword>comida enlatada para animais de estimação,comida enlatada para animais de estimação</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cômoda</name>
+		<yomi>cômoda</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>cômoda,cômoda</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>compressas frias</name>
+		<yomi>compressas frias</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>compressas frias,compressas frias</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>computador</name>
+		<yomi>computador</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Contacte o fabricante</kubun>
+		<zyouken>Entre em contato com o fabricante. É necessário pagar uma taxa para os computadores que não possuem o selo de reciclagem. Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>computador,computador</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>conchas</name>
+		<yomi>conchas</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>conchas,conchas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>concreto (inclui blocos de concreto)</name>
+		<yomi>concreto (inclui blocos de concreto)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370. Blocos de concreto usado como suporte do varal podem ser levados diretamente ao centro de limpeza.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>concreto (inclui blocos de concreto),concreto (inclui blocos de concreto)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>conjunto da sala de visitas</name>
+		<yomi>conjunto da sala de visitas</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>conjunto da sala de visitas,conjunto da sala de visitas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>controle remoto</name>
+		<yomi>controle remoto</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>controle remoto,controle remoto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>copo de vidro</name>
+		<yomi>copo de vidro</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>copo de vidro,copo de vidro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>copo e prato de papel</name>
+		<yomi>copo e prato de papel</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>copo e prato de papel,copo e prato de papel</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>corrente</name>
+		<yomi>corrente</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>corrente,corrente</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cortador de unhas</name>
+		<yomi>cortador de unhas</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>cortador de unhas,cortador de unhas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cortadores de capim</name>
+		<yomi>cortadores de capim</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para prevenir incêndios, utilizar completamente o combustível.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>cortadores de capim,cortadores de capim</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cortina</name>
+		<yomi>cortina</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>No entanto, as cortinas de tecido podem ser cortadas em pedaços de até 1 metro quadrado e descartadas no "lixo combustível".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>cortina,cortina</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>cotonete</name>
+		<yomi>cotonete</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>cotonete,cotonete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>couro</name>
+		<yomi>couro</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Sapatos, bolsas e similares.</zyouken>
+		<bunrui>Roupas</bunrui>
+		<keyword>couro,couro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>criado-mudo</name>
+		<yomi>criado-mudo</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos menores que 180cm. Para comprimentos maiores, leve diretamente ao centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>criado-mudo,criado-mudo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>d</on>
+		<name>dessecantes (alimentos)</name>
+		<yomi>dessecantes (alimentos)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Se for de papel, descarte no "lixo combustível" . </zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>dessecantes (alimentos),dessecantes (alimentos)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>d</on>
+		<name>dicionário eletrônico</name>
+		<yomi>dicionário eletrônico</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>dicionário eletrônico,dicionário eletrônico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>d</on>
+		<name>disco de vinil</name>
+		<yomi>disco de vinil</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>disco de vinil,disco de vinil</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>d</on>
+		<name>disquete</name>
+		<yomi>disquete</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>As caixas de plástico devem ser descartadas no "lixo não-combustívell". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>disquete,disquete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>elástico</name>
+		<yomi>elástico</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>elástico,elástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>electone (órgão eletrônico da empresa Yamaha)</name>
+		<yomi>electone (órgão eletrônico da empresa Yamaha)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>electone (órgão eletrônico da empresa Yamaha),electone (órgão eletrônico da empresa Yamaha)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>embalagem à vácuo de alimentos prontos</name>
+		<yomi>embalagem à vácuo de alimentos prontos</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Descarte após lavar o interior. </zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>embalagem à vácuo de alimentos prontos,embalagem à vácuo de alimentos prontos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>embrulho de presente</name>
+		<yomi>embrulho de presente</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>embrulho de presente,embrulho de presente</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>emplasto ou cataplasma</name>
+		<yomi>emplasto ou cataplasma</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Por questões relacionadas à higiene, é um lixo com permissão especial para ser incinerado.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>emplasto ou cataplasma,emplasto ou cataplasma</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>enema ou clister</name>
+		<yomi>enema ou clister</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Incinerar devido a questões higiênicas (esvaziar completamente o conteúdo).</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>enema ou clister,enema ou clister</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>envelope</name>
+		<yomi>envelope</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Os visores de plástio devem ser retirados e descartados no "lixo não combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>envelope,envelope</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>envelope (plástico)</name>
+		<yomi>envelope (plástico)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>envelope (plástico),envelope (plástico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>equipamento agrícola (doméstico de pequeno porte)</name>
+		<yomi>equipamento agrícola (doméstico de pequeno porte)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Esvazie completamente o óleo (cortador de grama até aparelho de névoa). Desmonte até onde puder.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>equipamento agrícola (doméstico de pequeno porte),equipamento agrícola (doméstico de pequeno porte)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>erva daninha</name>
+		<yomi>erva daninha</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>O barro e a terra devem ser totalmente removidos. Em grandes quantidades, leve diretamente ao centro de limpeza.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>erva daninha,erva daninha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>escova</name>
+		<yomi>escova</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>escova,escova</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>escova de dentes</name>
+		<yomi>escova de dentes</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>escova de dentes,escova de dentes</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>escrivaninha (madeira, aço)</name>
+		<yomi>escrivaninha (madeira, aço)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>escrivaninha (madeira, aço),escrivaninha (madeira, aço)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>espada de bambu</name>
+		<yomi>espada de bambu</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Corte em pedaços de 50 cm e descarte. Se for descartar sem cortar, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>espada de bambu,espada de bambu</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>espelho</name>
+		<yomi>espelho</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>espelho,espelho</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>esponja</name>
+		<yomi>esponja</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>esponja,esponja</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>esquadria de alumínio</name>
+		<yomi>esquadria de alumínio</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Descarte depois de cortar em pedaços menores que 180 cm de comprimento.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>esquadria de alumínio,esquadria de alumínio</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>estante simples colorida</name>
+		<yomi>estante simples colorida</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>estante simples colorida,estante simples colorida</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>esteira-manta</name>
+		<yomi>esteira-manta</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>esteira-manta,esteira-manta</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>estilete</name>
+		<yomi>estilete</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>estilete,estilete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>etiqueta autocolante</name>
+		<yomi>etiqueta autocolante</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>etiqueta autocolante,etiqueta autocolante</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>exaustor</name>
+		<yomi>exaustor</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>exaustor,exaustor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>extensão elétrica</name>
+		<yomi>extensão elétrica</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>extensão elétrica,extensão elétrica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>e</on>
+		<name>extintor de incêndio</name>
+		<yomi>extintor de incêndio</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor ou uma empresa especializada.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>extintor de incêndio,extintor de incêndio</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>faca</name>
+		<yomi>faca</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita crepe ou panos na espada, e escreva [はもの] no saco de lixo.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>faca,faca</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>faca de cozinha</name>
+		<yomi>faca de cozinha</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita adesiva na parte afiada e escreva [ハマノ] no saco de lixo.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>faca de cozinha,faca de cozinha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>ferramentas</name>
+		<yomi>ferramentas</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>ferramentas,ferramentas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>ferro de passar</name>
+		<yomi>ferro de passar</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>ferro de passar,ferro de passar</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fezes de aves</name>
+		<yomi>fezes de aves</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Animais</bunrui>
+		<keyword>fezes de aves,fezes de aves</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>filme de PVC</name>
+		<yomi>filme de PVC</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Os filmes usados para cobrir carnes e peixes comprados no mercado devem ser lavados e descartados no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>filme de PVC,filme de PVC</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fita adesiva (durex)</name>
+		<yomi>fita adesiva (durex)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>fita adesiva (durex),fita adesiva (durex)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fita cassete</name>
+		<yomi>fita cassete</yomi>
+		<kubun>Fitas Cassetes e similares</kubun>
+		<zyouken>As caixas de plástico devem ser descartadas no "lixo não-combustívell". As de papel no dia de "coleta de papeis velhos" para reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>fita cassete,fita cassete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fita crepe</name>
+		<yomi>fita crepe</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Se for de pano ou papel, descarte no "lixo combustivel". De outros materiais, descarte no "lixo não combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>fita crepe,fita crepe</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fita de plástico</name>
+		<yomi>fita de plástico</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>fita de plástico,fita de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fita de polipropileno</name>
+		<yomi>fita de polipropileno</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Corte em comprimentos de 50cm. Não descarte comprido.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>fita de polipropileno,fita de polipropileno</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fitas de vídeo</name>
+		<yomi>fitas de vídeo</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>As caixas de plástico descarte no "lixo não combustível", as caixas de papel descarte no "lixo de papeis velhos" para reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>fitas de vídeo,fitas de vídeo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fogão</name>
+		<yomi>fogão</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>fogão,fogão</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fogão a gás</name>
+		<yomi>fogão a gás</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Remova as pilhas sem falta. As pilhas devem ser descartadas no "lixo tóxico". </zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>fogão a gás,fogão a gás</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fogão a gás portátil</name>
+		<yomi>fogão a gás portátil</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho são menores que um quadrado de 30 cm podem ser descartados como "lixo não-combustível". Maiores que o tamanho citado devem ser descartados no "lixo de grande porte".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>fogão a gás portátil,fogão a gás portátil</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fogos de artifício</name>
+		<yomi>fogos de artifício</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Jogue água para apagar completamente o fogo e descarte em seguida. No entanto, os não usados leve pessoalmente ao centro de limpeza.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>fogos de artifício,fogos de artifício</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>foice</name>
+		<yomi>foice</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>foice,foice</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>folha de alumínio</name>
+		<yomi>folha de alumínio</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Remova a sujeira e descarte no "lixo não-combustível".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>folha de alumínio,folha de alumínio</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>folha de cercado para canteiros.</name>
+		<yomi>folha de cercado para canteiros.</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte a cooperativa agrícola.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>folha de cercado para canteiros.,folha de cercado para canteiros.</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>folha de plástico usado como divisória para bentô</name>
+		<yomi>folha de plástico usado como divisória para bentô</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>folha de plástico usado como divisória para bentô,folha de plástico usado como divisória para bentô</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>folhas de plástico</name>
+		<yomi>folhas de plástico</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>folhas de plástico,folhas de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>folheto de anúncios</name>
+		<yomi>folheto de anúncios</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>folheto de anúncios,folheto de anúncios</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fone de ouvido</name>
+		<yomi>fone de ouvido</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>fone de ouvido,fone de ouvido</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fone de ouvido</name>
+		<yomi>fone de ouvido</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>fone de ouvido,fone de ouvido</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>forno microondas</name>
+		<yomi>forno microondas</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>forno microondas,forno microondas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>forno torradeira</name>
+		<yomi>forno torradeira</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável. Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>forno torradeira,forno torradeira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fotos</name>
+		<yomi>fotos</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Os negativos das fotos devem ser descartados no "lixo não combustível".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>fotos,fotos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>fralda descartável</name>
+		<yomi>fralda descartável</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>fralda descartável,fralda descartável</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de detergente (com bomba)</name>
+		<yomi>frasco de detergente (com bomba)</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Esvazie completamente o conteúdo, lave o interior e descarte. Retire a bombinha e descarte no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>frasco de detergente (com bomba),frasco de detergente (com bomba)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de inseticidas (pesticidas e produtos químicos)</name>
+		<yomi>frasco de inseticidas (pesticidas e produtos químicos)</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>frasco de inseticidas (pesticidas e produtos químicos),frasco de inseticidas (pesticidas e produtos químicos)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de ketchup</name>
+		<yomi>frasco de ketchup</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Lave completamente o interior antes de descartar. Os frascos de maionese também devem ser lavados da mesma forma.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>frasco de ketchup,frasco de ketchup</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de maionese</name>
+		<yomi>frasco de maionese</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Descarte após lavar o interior. Proceda da mesma forma com as frascos de maionese.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>frasco de maionese,frasco de maionese</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de medicamentos (exceto via oral) de aplicação externa e tônico capilar</name>
+		<yomi>frasco de medicamentos (exceto via oral) de aplicação externa e tônico capilar</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte após esvaziá-lo completamente.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>frasco de medicamentos (exceto via oral) de aplicação externa e tônico capilar,frasco de medicamentos (exceto via oral) de aplicação externa e tônico capilar</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de medicamentos (via oral)
+comprimidos, granulados ou líquidos</name>
+		<yomi>frasco de medicamentos (via oral)
+comprimidos, granulados ou líquidos</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>frasco de medicamentos (via oral)
+comprimidos, granulados ou líquidos,frasco de medicamentos (via oral)
+comprimidos, granulados ou líquidos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>frasco de shampoo</name>
+		<yomi>frasco de shampoo</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Esvazie completamente o conteúdo, lave o interior e descarte. Retire a bombinha e descarte.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>frasco de shampoo,frasco de shampoo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>gaiola de pássaros</name>
+		<yomi>gaiola de pássaros</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Animais</bunrui>
+		<keyword>gaiola de pássaros,gaiola de pássaros</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>gaiola para animais de estimação</name>
+		<yomi>gaiola para animais de estimação</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Animais</bunrui>
+		<keyword>gaiola para animais de estimação,gaiola para animais de estimação</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>galão de plástico (até 20L)</name>
+		<yomi>galão de plástico (até 20L)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>galão de plástico (até 20L),galão de plástico (até 20L)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>galho de podas (árvores)</name>
+		<yomi>galho de podas (árvores)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Corte em pedaços de até 5 cm de largura e até 50 cm de comprimento, coloque no saco de lixo determinado e descarte (é permitido amarrar em feixes).</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>galho de podas (árvores),galho de podas (árvores)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>galho de podas (árvores) [Grande quantidades]</name>
+		<yomi>galho de podas (árvores) [Grande quantidades]</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Caso a quantidade seja grande, corte em pedaços de até 5 cm de largura e até 50 cm de comprimento,  e leve diretamente ao centro de limpeza No. 1.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>galho de podas (árvores) [Grande quantidades],galho de podas (árvores) [Grande quantidades]</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa (alimentos e bebidas)</name>
+		<yomi>garrafa (alimentos e bebidas)</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>Garrafas de cerveja e de cachaça japonesa (sake) devem ser devolvidas ao revendedor.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa (alimentos e bebidas),garrafa (alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa (exceto de alimentos e bebidas)</name>
+		<yomi>garrafa (exceto de alimentos e bebidas)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Garrafas de perfume e cosméticos.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>garrafa (exceto de alimentos e bebidas),garrafa (exceto de alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa de molho pronto para salada (vidro)</name>
+		<yomi>garrafa de molho pronto para salada (vidro)</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>As tampas de plástico descartar no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa de molho pronto para salada (vidro),garrafa de molho pronto para salada (vidro)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa de óleo (alimentos e bebidas)</name>
+		<yomi>garrafa de óleo (alimentos e bebidas)</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>Retire a tampa, lave o interior e descarte nas cestas separadas por cor.
+As tampas de metal, descarte no "Lixo Não-Combustível".
+As tampas de plástico, descarte no lixo de "Plástico Reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa de óleo (alimentos e bebidas),garrafa de óleo (alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa de vidro de cosmético</name>
+		<yomi>garrafa de vidro de cosmético</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>garrafa de vidro de cosmético,garrafa de vidro de cosmético</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa de vidro de pesticidas (de agricultores)</name>
+		<yomi>garrafa de vidro de pesticidas (de agricultores)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte uma empresa especializada.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>garrafa de vidro de pesticidas (de agricultores),garrafa de vidro de pesticidas (de agricultores)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa de vidro de pesticidas (de uso doméstico)</name>
+		<yomi>garrafa de vidro de pesticidas (de uso doméstico)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Esvazie completamente as garrafas de pesticidas e lave com água.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>garrafa de vidro de pesticidas (de uso doméstico),garrafa de vidro de pesticidas (de uso doméstico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa de vidro quebrada</name>
+		<yomi>garrafa de vidro quebrada</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>Garrafas de vidro de alimentos ou bebidas, mesmo quebradas devem ser descartadas como recurso nas caixas separadas por cores. Quando não puder ser classificada por cor, descarte no "lixo não combustível".</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>garrafa de vidro quebrada,garrafa de vidro quebrada</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa sho (geralmente de sake. Aprox. 1,8L)</name>
+		<yomi>garrafa sho (geralmente de sake. Aprox. 1,8L)</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Consulte o revendedor. Garrafas quebradas devem ser descartadas em "garrafas vazias". Garrafas de cores desconhecida devem ser descartadas no "lixo não-combustível". </zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa sho (geralmente de sake. Aprox. 1,8L),garrafa sho (geralmente de sake. Aprox. 1,8L)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa térmica</name>
+		<yomi>garrafa térmica</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa térmica,garrafa térmica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa térmica</name>
+		<yomi>garrafa térmica</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Inclusive garrafas de inóx e de vidro.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa térmica,garrafa térmica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa vazia (alimentos e bebidas)</name>
+		<yomi>garrafa vazia (alimentos e bebidas)</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>Retire a tampa, lave o interior e descarte nas cestas separadas por cor.
+Tampa de metal : Descarte no "lixo não-combustível".
+Tampa de plástico : Descarte no lixo de "plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa vazia (alimentos e bebidas),garrafa vazia (alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa vazia (exceto, alimentos e bebidas)</name>
+		<yomi>garrafa vazia (exceto, alimentos e bebidas)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Vidros de cosméticos, porta-joia, perfume e medicamentos (cremes etc., exceto vidros de medicamentos por via oral)
+Se a tampa for de plástico, descarte no lixo de "Plástico Reciclável".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>garrafa vazia (exceto, alimentos e bebidas),garrafa vazia (exceto, alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafa vidro</name>
+		<yomi>garrafa vidro</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Se estiver quebrado descarte nas "garrafas vazias".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafa vidro,garrafa vidro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>garrafas PET</name>
+		<yomi>garrafas PET</yomi>
+		<kubun>garrafas PET</kubun>
+		<zyouken>Os que possuem o No. 1 na marca da reciclagem. A tampa e o rótulo devem ser descartados no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>garrafas PET,garrafas PET</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>gato morto</name>
+		<yomi>gato morto</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Comunique a cooperativa de limpeza Nan-etsu.</zyouken>
+		<bunrui>Animais</bunrui>
+		<keyword>gato morto,gato morto</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>geladeira (freezer)</name>
+		<yomi>geladeira (freezer)</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Leve ao revendedor. É possível solicitar a uma empresa de transporte de resíduos. É necessário pagar taxa de reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>geladeira (freezer),geladeira (freezer)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>giz de cera e similares</name>
+		<yomi>giz de cera e similares</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>giz de cera e similares,giz de cera e similares</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>goggles (óculos)</name>
+		<yomi>goggles (óculos)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>goggles (óculos),goggles (óculos)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>guarda-chuva</name>
+		<yomi>guarda-chuva</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>E possível que parte do objeto fique fora do saco de lixo.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>guarda-chuva,guarda-chuva</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>guarda-louça</name>
+		<yomi>guarda-louça</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>guarda-louça,guarda-louça</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>halteres de ferro</name>
+		<yomi>halteres de ferro</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>halteres de ferro,halteres de ferro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>í</on>
+		<name>ímã</name>
+		<yomi>ímã</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>ímã,ímã</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>impressoras</name>
+		<yomi>impressoras</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>impressoras,impressoras</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>instrumentos cortantes</name>
+		<yomi>instrumentos cortantes</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita crepe, etc. na parte afiada, e escreva [ハモノ] no saco de lixo.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>instrumentos cortantes,instrumentos cortantes</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>instrumentos musicais</name>
+		<yomi>instrumentos musicais</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>instrumentos musicais,instrumentos musicais</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>isopor</name>
+		<yomi>isopor</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Quebre em uma tamanho que caiba no saco de lixo. Não é necessário quebrar em tamanhos menores.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>isopor,isopor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>isqueiro</name>
+		<yomi>isqueiro</yomi>
+		<kubun>Lixo Tóxico (YUGAI GOMI)</kubun>
+		<zyouken>Use completamente o conteúdo. Proceda da mesma forma com os isqueiros descartáveis.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>isqueiro,isqueiro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>j</on>
+		<name>janela corrediça com papel</name>
+		<yomi>janela corrediça com papel</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos de até 180 cm. Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>janela corrediça com papel,janela corrediça com papel</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>j</on>
+		<name>jornal</name>
+		<yomi>jornal</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>jornal,jornal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>kairo (descartável)</name>
+		<yomi>kairo (descartável)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Devido o risco de provocar a ignição espontânea, não descarte o kairo não-utilizado (sem uso). 
+A embalagem de plástico deve ser descartada no lixo de "plástico reciclável".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>kairo (descartável),kairo (descartável)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lama (sarjeta)</name>
+		<yomi>lama (sarjeta)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Das vias provinciais consulte o escritório de obras públicas provinciais, das vias municipais consulte o setor de controle e manutenção municipal.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>lama (sarjeta),lama (sarjeta)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lâmpada fluorescente</name>
+		<yomi>lâmpada fluorescente</yomi>
+		<kubun>Lixo Tóxico (YUGAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>lâmpada fluorescente,lâmpada fluorescente</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lâmpadas</name>
+		<yomi>lâmpadas</yomi>
+		<kubun>Lixo Tóxico (YUGAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>lâmpadas,lâmpadas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lâmpadas fluorescentes compactas</name>
+		<yomi>lâmpadas fluorescentes compactas</yomi>
+		<kubun>Lixo Tóxico (YUGAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>lâmpadas fluorescentes compactas,lâmpadas fluorescentes compactas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lanterna</name>
+		<yomi>lanterna</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>lanterna,lanterna</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lápide</name>
+		<yomi>lápide</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>lápide,lápide</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lata de 18 litros (somente de  uso doméstico)</name>
+		<yomi>lata de 18 litros (somente de  uso doméstico)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>lata de 18 litros (somente de  uso doméstico),lata de 18 litros (somente de  uso doméstico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lata de doces (metal)</name>
+		<yomi>lata de doces (metal)</yomi>
+		<kubun>Latas Vazias (AKIKAN)</kubun>
+		<zyouken>Somente latas menores que o tamanho de meia lata de 18 litros. </zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>lata de doces (metal),lata de doces (metal)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lata de spray</name>
+		<yomi>lata de spray</yomi>
+		<kubun>Sprays, cilindros e similares</kubun>
+		<zyouken>Esvazie completamente o conteúdo e perfure a lata. Proceda da mesma forma com as latas de sprays que possuem a marca "PURA". Descarte a tampinha no "lixo de plástico reciclável". A bombinha descarte no "lixo não combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lata de spray,lata de spray</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lata de tinta (somente de uso doméstico)</name>
+		<yomi>lata de tinta (somente de uso doméstico)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Esvazie completamente o conteúdo. Latas menores que meia lata de 18 litros devem ser descartadas no "lixo não queimável".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>lata de tinta (somente de uso doméstico),lata de tinta (somente de uso doméstico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lata vazia (alimentos e bebidas)</name>
+		<yomi>lata vazia (alimentos e bebidas)</yomi>
+		<kubun>Latas Vazias (AKIKAN)</kubun>
+		<zyouken>Esvazie totalmente as latas e lave o interior com água. As latas maiores do que meia lata de 18 litros devem ser descartadas no "lixo de grande porte". 
+As latas que não continham alimentos ou bebidas devem ser descartadas no "lixo não-queimável".
+As tampas de latas são "lixo não-queimável". As tampas que não foram retiradas totalmente devem ser descartada com a lata.
+As tampas de latas de doce também devem ser descartadas como "lata vazia".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>lata vazia (alimentos e bebidas),lata vazia (alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lata vazia (exceto, alimentos e bebidas)</name>
+		<yomi>lata vazia (exceto, alimentos e bebidas)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Latas de cera ou tinta, cofrinho, porta-joia, etc. (utilize o conteúdo por completo). ※Latas grandes devem ser descartadas no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lata vazia (exceto, alimentos e bebidas),lata vazia (exceto, alimentos e bebidas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lenço</name>
+		<yomi>lenço</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lenço,lenço</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lenço de papel</name>
+		<yomi>lenço de papel</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lenço de papel,lenço de papel</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>limpador de ouvidos (mimikaki)</name>
+		<yomi>limpador de ouvidos (mimikaki)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Se for de madeira descarte no "lixo combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>limpador de ouvidos (mimikaki),limpador de ouvidos (mimikaki)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>livros</name>
+		<yomi>livros</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>livros,livros</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lixo de cozinha</name>
+		<yomi>lixo de cozinha</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Cortar bem a água para descartar.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>lixo de cozinha,lixo de cozinha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lixo do picotador de papeis</name>
+		<yomi>lixo do picotador de papeis</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Outros</bunrui>
+		<keyword>lixo do picotador de papeis,lixo do picotador de papeis</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lonas de plástico</name>
+		<yomi>lonas de plástico</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Corte em comprimentos menores que 1 metro. Se não for cortar, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lonas de plástico,lonas de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lupa</name>
+		<yomi>lupa</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lupa,lupa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>lupa</name>
+		<yomi>lupa</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>lupa,lupa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>jkl</gyou>
+		<on>l</on>
+		<name>luvas (beisebol)</name>
+		<yomi>luvas (beisebol)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>luvas (beisebol),luvas (beisebol)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>machadinha</name>
+		<yomi>machadinha</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Até aproximadamente 20 cm. As machadinhas grandes devem ser descartadas no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>machadinha,machadinha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>machado</name>
+		<yomi>machado</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>A machadinha (ferramenta usada para cortar lenha) também deve ser descartada no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>machado,machado</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>machado</name>
+		<yomi>machado</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Machados devem ser descartados no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>machado,machado</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mala</name>
+		<yomi>mala</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>mala,mala</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mangueira</name>
+		<yomi>mangueira</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte após cortar em pedaços de menos de 1 metro de comprimento.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>mangueira,mangueira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mangueira de plástico</name>
+		<yomi>mangueira de plástico</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Encurte-o cortando em comprimentos de aproximadamente 1 metro.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>mangueira de plástico,mangueira de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>máquina de costura</name>
+		<yomi>máquina de costura</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Inclusive máquinas de costura com pedal.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>máquina de costura,máquina de costura</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>máquina de fazer sucos</name>
+		<yomi>máquina de fazer sucos</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Menores de 30 cm quadrados descarte no "lixo não combustível". Tamanho maiores, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>máquina de fazer sucos,máquina de fazer sucos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>máquina de lavar</name>
+		<yomi>máquina de lavar</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Leve ao revendedor. É possível solicitar o descarte a uma empresa de transportes de resíduos. É  necessário pagar a taxa de reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>máquina de lavar,máquina de lavar</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>máquina de massagem</name>
+		<yomi>máquina de massagem</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>máquina de massagem,máquina de massagem</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>marcador (caneta)</name>
+		<yomi>marcador (caneta)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>marcador (caneta),marcador (caneta)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>material de aquecimento e resfriamento</name>
+		<yomi>material de aquecimento e resfriamento</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>material de aquecimento e resfriamento,material de aquecimento e resfriamento</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>material de enchimento de isopor</name>
+		<yomi>material de enchimento de isopor</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Os granulados devem ser descartados no "lixo não combustível".</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>material de enchimento de isopor,material de enchimento de isopor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>MD, CD, LD e DVD</name>
+		<yomi>MD, CD, LD e DVD</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>A caixa também deve ser descartada no "lixo não combustível".</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>MD, CD, LD e DVD,MD, CD, LD e DVD</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>meia-calça</name>
+		<yomi>meia-calça</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>meia-calça,meia-calça</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>meias</name>
+		<yomi>meias</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>meias,meias</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mesa</name>
+		<yomi>mesa</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>mesa,mesa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mesa baixa com pernas de desencaixar ou dobradiças</name>
+		<yomi>mesa baixa com pernas de desencaixar ou dobradiças</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>mesa baixa com pernas de desencaixar ou dobradiças,mesa baixa com pernas de desencaixar ou dobradiças</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mesinha com aquecedor elétrico (kotatsu)</name>
+		<yomi>mesinha com aquecedor elétrico (kotatsu)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>mesinha com aquecedor elétrico (kotatsu),mesinha com aquecedor elétrico (kotatsu)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mesinha kotatsu (armação e tábua)</name>
+		<yomi>mesinha kotatsu (armação e tábua)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>mesinha kotatsu (armação e tábua),mesinha kotatsu (armação e tábua)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>mochila</name>
+		<yomi>mochila</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>mochila,mochila</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>monociclo</name>
+		<yomi>monociclo</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>monociclo,monociclo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>motocicleta</name>
+		<yomi>motocicleta</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Leve ao revendedor ou solicite o descarte a uma empresa especializada.</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>motocicleta,motocicleta</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>motor</name>
+		<yomi>motor</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Leve à empresa de coleta de metais.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>motor,motor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>motoserra ou serra elétrica</name>
+		<yomi>motoserra ou serra elétrica</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Esvazie completamente o combustível.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>motoserra ou serra elétrica,motoserra ou serra elétrica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>móveis</name>
+		<yomi>móveis</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>móveis,móveis</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>móveis de vime</name>
+		<yomi>móveis de vime</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>móveis de vime,móveis de vime</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>navalha</name>
+		<yomi>navalha</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Enrole fita crepe ou panos na parte afiada, e escreva [はもの] no saco de lixo.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>navalha,navalha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>óculos</name>
+		<yomi>óculos</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>óculos,óculos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>óculos de natação</name>
+		<yomi>óculos de natação</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>óculos de natação,óculos de natação</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>óleo de cozinha</name>
+		<yomi>óleo de cozinha</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Absorva com papel ou panos, ou endureça com produtos próprios para depois descartar.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>óleo de cozinha,óleo de cozinha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>óleo do motor</name>
+		<yomi>óleo do motor</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor ou posto de gasolina.</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>óleo do motor,óleo do motor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>órgãos</name>
+		<yomi>órgãos</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos maiores que 180 cm, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>órgãos,órgãos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pá</name>
+		<yomi>pá</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>As pás de menos de 20 cm devem ser descartados no "lixo não combustível".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>pá,pá</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pá de lixo</name>
+		<yomi>pá de lixo</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>pá de lixo,pá de lixo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pá para tirar e carregar neve</name>
+		<yomi>pá para tirar e carregar neve</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>pá para tirar e carregar neve,pá para tirar e carregar neve</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>palitinhos (hashi)</name>
+		<yomi>palitinhos (hashi)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Os feito de plástico descarte no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>palitinhos (hashi),palitinhos (hashi)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>panela</name>
+		<yomi>panela</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>panela,panela</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>panela de barro</name>
+		<yomi>panela de barro</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>panela de barro,panela de barro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>panela elétrica de arroz</name>
+		<yomi>panela elétrica de arroz</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>panela elétrica de arroz,panela elétrica de arroz</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>panos</name>
+		<yomi>panos</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Os panos compridos cortar em tamanhos menores de 1 metro.</zyouken>
+		<bunrui>Roupas</bunrui>
+		<keyword>panos,panos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>papel alumínio</name>
+		<yomi>papel alumínio</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>papel alumínio,papel alumínio</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>papel carbono</name>
+		<yomi>papel carbono</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>papel carbono,papel carbono</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>papel de embrulho</name>
+		<yomi>papel de embrulho</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte com as revistas e amarre.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>papel de embrulho,papel de embrulho</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>papel térmico</name>
+		<yomi>papel térmico</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>papel térmico,papel térmico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>papelões</name>
+		<yomi>papelões</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Abra as caixas e amarre com barbante de papel.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>papelões,papelões</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pasta de farelo de arroz</name>
+		<yomi>pasta de farelo de arroz</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Mas, somente pequenas quantidades.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>pasta de farelo de arroz,pasta de farelo de arroz</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pasta de papel</name>
+		<yomi>pasta de papel</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Retire as partes de metal e descarte no "lixo não combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>pasta de papel,pasta de papel</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pasta de plástico</name>
+		<yomi>pasta de plástico</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>pasta de plástico,pasta de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pedra de peso usado para fazer conservas</name>
+		<yomi>pedra de peso usado para fazer conservas</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte uma empresa especializada em paisagismo. Quando aos pesos feito de plástico, consulte o centro de limpeza, tel:28-1370.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>pedra de peso usado para fazer conservas,pedra de peso usado para fazer conservas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pedra do varal</name>
+		<yomi>pedra do varal</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Suportes de concreto de varal devem ser levados diretamente ao centro de limpeza, tel:0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>pedra do varal,pedra do varal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>penico</name>
+		<yomi>penico</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>penico,penico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pente</name>
+		<yomi>pente</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Aqueles feito de madeira devem ser descartados no "lixo combustível".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>pente,pente</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>persiana</name>
+		<yomi>persiana</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Mas, descarte somente depois de cortar ou desmontar em comprimentos menores de 180cm.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>persiana,persiana</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pesticidas e derivados</name>
+		<yomi>pesticidas e derivados</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte uma empresa especializada.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>pesticidas e derivados,pesticidas e derivados</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pia</name>
+		<yomi>pia</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Para comprimentos menores que 180cm. Para comprimentos maiores, leve diretamente ao centro de limpeza.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>pia,pia</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pilhas</name>
+		<yomi>pilhas</yomi>
+		<kubun>Lixo Tóxico (YUGAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>pilhas,pilhas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pilhas (recarregáveis, tipo botão)</name>
+		<yomi>pilhas (recarregáveis, tipo botão)</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>pilhas (recarregáveis, tipo botão),pilhas (recarregáveis, tipo botão)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pincel para escrever</name>
+		<yomi>pincel para escrever</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>pincel para escrever,pincel para escrever</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pistola ou arma de fogo</name>
+		<yomi>pistola ou arma de fogo</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor ou uma empresa especializada.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>pistola ou arma de fogo,pistola ou arma de fogo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>plástico de estufas (de agricultores)</name>
+		<yomi>plástico de estufas (de agricultores)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 28-1370, ou descarte no dia designado pela cooperativa agrícola.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>plástico de estufas (de agricultores),plástico de estufas (de agricultores)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>plástico duro</name>
+		<yomi>plástico duro</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Lixos pesados como a bola de boliche, etc. devem levados diretamente ao centro de limpeza., tel:28-1370.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>plástico duro,plástico duro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pneu</name>
+		<yomi>pneu</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Consulte a cooperativa de limpeza. Se possível, solicite o descarte a uma empresa especializada. Não pode ser descartado no "lixo de grande porte". É necessário pagar taxa extra.</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>pneu,pneu</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pólvora</name>
+		<yomi>pólvora</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte uma loja especializada em pólvoras.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>pólvora,pólvora</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>porcelana chinesa</name>
+		<yomi>porcelana chinesa</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>porcelana chinesa,porcelana chinesa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>porcelanas</name>
+		<yomi>porcelanas</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>porcelanas,porcelanas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>porta deslizante</name>
+		<yomi>porta deslizante</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>porta deslizante,porta deslizante</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>pote ou garrafa térmica</name>
+		<yomi>pote ou garrafa térmica</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>pote ou garrafa térmica,pote ou garrafa térmica</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>prancha de esqui</name>
+		<yomi>prancha de esqui</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>prancha de esqui,prancha de esqui</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>prancha para snowboard</name>
+		<yomi>prancha para snowboard</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>prancha para snowboard,prancha para snowboard</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>prego</name>
+		<yomi>prego</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Junte e enrole a ponta com fita adesiva para não espete e descarte.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>prego,prego</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>prendedores de roupa</name>
+		<yomi>prendedores de roupa</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>prendedores de roupa,prendedores de roupa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>preservativo</name>
+		<yomi>preservativo</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Por questões relacionadas à higiene, é um lixo com permissão especial para ser incinerado.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>preservativo,preservativo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>processador de textos</name>
+		<yomi>processador de textos</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>processador de textos,processador de textos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>produtos químicos</name>
+		<yomi>produtos químicos</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>produtos químicos,produtos químicos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>p</on>
+		<name>produtos químicos</name>
+		<yomi>produtos químicos</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>produtos químicos,produtos químicos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>rádio</name>
+		<yomi>rádio</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>rádio,rádio</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>raquete</name>
+		<yomi>raquete</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>As raquetes de madeira devem ser descartados "lixo combustível".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>raquete,raquete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>recibo da máquina registradora</name>
+		<yomi>recibo da máquina registradora</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>recibo da máquina registradora,recibo da máquina registradora</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>recipiente (plástico) de alga (nori) temperada</name>
+		<yomi>recipiente (plástico) de alga (nori) temperada</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>recipiente (plástico) de alga (nori) temperada,recipiente (plástico) de alga (nori) temperada</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>recipiente (vidro) de alga (nori) temperada</name>
+		<yomi>recipiente (vidro) de alga (nori) temperada</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>Retire a tampa, lave o interior e descarte nas cestas separadas por cor.
+Se a tampa for de plástico, descarte no lixo de "Plástico Reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>recipiente (vidro) de alga (nori) temperada,recipiente (vidro) de alga (nori) temperada</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>recipiente de comprimidos</name>
+		<yomi>recipiente de comprimidos</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Os recipientes de vidro devem ser descartados no "lixo não combustível".</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>recipiente de comprimidos,recipiente de comprimidos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>recipiente de repelentes</name>
+		<yomi>recipiente de repelentes</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Aqueles de pendurar.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>recipiente de repelentes,recipiente de repelentes</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>recipientes de macarrão instantâneo</name>
+		<yomi>recipientes de macarrão instantâneo</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Se for de papel, descarte no "lixo combustível" . O filme da embalagem deve ser descartado no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>recipientes de macarrão instantâneo,recipientes de macarrão instantâneo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>rede (coleta de insetos e de pesca)</name>
+		<yomi>rede (coleta de insetos e de pesca)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>rede (coleta de insetos e de pesca),rede (coleta de insetos e de pesca)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>rede (indústria pesqueira)</name>
+		<yomi>rede (indústria pesqueira)</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Entre em contato com o centro de limpeza No.2 (Kotogahara-cho), tel: 0778-28-1370.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>rede (indústria pesqueira),rede (indústria pesqueira)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>relógio</name>
+		<yomi>relógio</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>relógio,relógio</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>relógio de pulso</name>
+		<yomi>relógio de pulso</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>relógio de pulso,relógio de pulso</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>resíduos de conserva (yuka)</name>
+		<yomi>resíduos de conserva (yuka)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Mas, somente pequenas quantidades.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>resíduos de conserva (yuka),resíduos de conserva (yuka)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>resíduos de incêndios</name>
+		<yomi>resíduos de incêndios</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte uma empresa especializada em demolições.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>resíduos de incêndios,resíduos de incêndios</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>resíduos de óleo</name>
+		<yomi>resíduos de óleo</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor.</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>resíduos de óleo,resíduos de óleo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>resíduos hospitalar</name>
+		<yomi>resíduos hospitalar</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Devolva para a instituição médica ou solicite o descarte a uma empresa especializada. Os resíduos de objetos de tratamento médico doméstico, não aguçados e não contagioso podem ser descartadas no "lixo combustível".</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>resíduos hospitalar,resíduos hospitalar</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>revistas</name>
+		<yomi>revistas</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>revistas,revistas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>roda (carros)</name>
+		<yomi>roda (carros)</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Não coletado se estiver com rodas. Leve as rodas ao revendedor.</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>roda (carros),roda (carros)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>roleta</name>
+		<yomi>roleta</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>roleta,roleta</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>rolo de papel higiênico</name>
+		<yomi>rolo de papel higiênico</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>rolo de papel higiênico,rolo de papel higiênico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>rolo do filme de PVC</name>
+		<yomi>rolo do filme de PVC</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Somente de filmes de uso doméstico. Coloque dentro do saco de papel, junte com as revistas e amarre.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>rolo do filme de PVC,rolo do filme de PVC</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>roupas</name>
+		<yomi>roupas</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Descarte após cortar em pedaços de menos de 1 metro de comprimento.</zyouken>
+		<bunrui>Roupas</bunrui>
+		<keyword>roupas,roupas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>roupas</name>
+		<yomi>roupas</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Corte em pedaços de menos de 1 metro de comprimento. </zyouken>
+		<bunrui>Roupas</bunrui>
+		<keyword>roupas,roupas</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>roupas de esqui</name>
+		<yomi>roupas de esqui</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>roupas de esqui,roupas de esqui</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sabão em barra</name>
+		<yomi>sabão em barra</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>sabão em barra,sabão em barra</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saco de compras de plástico</name>
+		<yomi>saco de compras de plástico</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>saco de compras de plástico,saco de compras de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saco de dormir</name>
+		<yomi>saco de dormir</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>saco de dormir,saco de dormir</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saco de fertilizantes</name>
+		<yomi>saco de fertilizantes</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o revendedor. Fertilizantes usados na horticultura (somente doméstico) obedeça as instruções do saco.</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>saco de fertilizantes,saco de fertilizantes</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saco de papel</name>
+		<yomi>saco de papel</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Junte com as revistas e amarre. </zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>saco de papel,saco de papel</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saco de plástico</name>
+		<yomi>saco de plástico</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>saco de plástico,saco de plástico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saco de plástico da lavanderia</name>
+		<yomi>saco de plástico da lavanderia</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>saco de plástico da lavanderia,saco de plástico da lavanderia</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sandália japonesa (GUETA)</name>
+		<yomi>sandália japonesa (GUETA)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>sandália japonesa (GUETA),sandália japonesa (GUETA)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>sandálias</name>
+		<yomi>sandálias</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>sandálias,sandálias</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sapatos de esqui</name>
+		<yomi>sapatos de esqui</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>sapatos de esqui,sapatos de esqui</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sapatos e tênis</name>
+		<yomi>sapatos e tênis</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>sapatos e tênis,sapatos e tênis</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saquinho de doces (papel)</name>
+		<yomi>saquinho de doces (papel)</yomi>
+		<kubun>Coleta de Papeis Velhos</kubun>
+		<zyouken>Desmanche e dobre a caixa, e descarte como [revistas e similares] no dia de "coleta de papeis velhos" para reciclagem.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>saquinho de doces (papel),saquinho de doces (papel)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>saquinho de doces (plástico)</name>
+		<yomi>saquinho de doces (plástico)</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Esvazie totalmente e descarte após lavar o interior com água.</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>saquinho de doces (plástico),saquinho de doces (plástico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>secador (roupas)</name>
+		<yomi>secador (roupas)</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Leve ao revendedor. É possível solicitar o descarte a uma empresa de transportes (a partir de abril de 2009). No entanto, é necessário pagar a taxa de reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>secador (roupas),secador (roupas)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>serra</name>
+		<yomi>serra</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Até aproximadamente 20 cm. As machadinhas grandes devem ser descartadas no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>serra,serra</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sinalizadores</name>
+		<yomi>sinalizadores</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Os usados devem ser descartados no "lixo não queimável".</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>sinalizadores,sinalizadores</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sinalizadores de fumaça</name>
+		<yomi>sinalizadores de fumaça</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Os usados devem ser descartados no "lixo não queimável".</zyouken>
+		<bunrui>Veiculos</bunrui>
+		<keyword>sinalizadores de fumaça,sinalizadores de fumaça</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>sofá</name>
+		<yomi>sofá</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>sofá,sofá</keyword>
+	</gomi>
+	<gomi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>stupa</name>
+		<yomi>stupa</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o templo.</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>stupa,stupa</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tábua de cozinha</name>
+		<yomi>tábua de cozinha</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Se for de madeira, descarte no "lixo combustível".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>tábua de cozinha,tábua de cozinha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tábua memorial</name>
+		<yomi>tábua memorial</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o templo</zyouken>
+		<bunrui>Outros</bunrui>
+		<keyword>tábua memorial,tábua memorial</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tambor</name>
+		<yomi>tambor</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Outros</bunrui>
+		<keyword>tambor,tambor</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tampa da banheira</name>
+		<yomi>tampa da banheira</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>tampa da banheira,tampa da banheira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tapete</name>
+		<yomi>tapete</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>tapete,tapete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tapete</name>
+		<yomi>tapete</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Dobre até o menor tamanho que puder e amarre com corda.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>tapete,tapete</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tapete de borracha</name>
+		<yomi>tapete de borracha</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>tapete de borracha,tapete de borracha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tapete elétrico</name>
+		<yomi>tapete elétrico</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>tapete elétrico,tapete elétrico</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tatami</name>
+		<yomi>tatami</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Moradia</bunrui>
+		<keyword>tatami,tatami</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>telefone (aparelho)</name>
+		<yomi>telefone (aparelho)</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>telefone (aparelho),telefone (aparelho)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>televisores</name>
+		<yomi>televisores</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<zyouken>Leve ao revendedor. O descarte também pode ser solicitada a uma empresa de transporte de resíduos. É necessário pagar taxa de reciclagem.</zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>televisores,televisores</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>telha (pequenas quantidades de uso doméstico)</name>
+		<yomi>telha (pequenas quantidades de uso doméstico)</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Somente em pequenas quantidades. Caso haja em grande quantidade, solicite o descarte a uma empresa especializada.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>telha (pequenas quantidades de uso doméstico),telha (pequenas quantidades de uso doméstico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tenda</name>
+		<yomi>tenda</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Separe a armação e a lona.</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>tenda,tenda</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tênis</name>
+		<yomi>tênis</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Roupas</bunrui>
+		<keyword>tênis,tênis</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Termomêtro (elétron)</name>
+		<yomi>Termomêtro (elétron)</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)</kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou nos lixos não incineráveis.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>Termomêtro (elétron),Termomêtro (elétron)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>termômetro (mercúrio)</name>
+		<yomi>termômetro (mercúrio)</yomi>
+		<kubun>Lixo Tóxico (YUGAI GOMI)</kubun>
+		<zyouken>Descarte termômetros digitais no "lixo não combustível", as pilhas devem ser retiradas e descartadas no "lixo tóxico" ou leve até às caixas de coleta do revendedor.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>termômetro (mercúrio),termômetro (mercúrio)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tesouras de poda</name>
+		<yomi>tesouras de poda</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>tesouras de poda,tesouras de poda</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tesouras de poda para locais altos</name>
+		<yomi>tesouras de poda para locais altos</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>tesouras de poda para locais altos,tesouras de poda para locais altos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>teste de gravidez</name>
+		<yomi>teste de gravidez</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<zyouken>Incinerar por questões higiênicas.</zyouken>
+		<bunrui>Hospitalar</bunrui>
+		<keyword>teste de gravidez,teste de gravidez</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tigelinha (tyawan)</name>
+		<yomi>tigelinha (tyawan)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>tigelinha (tyawan),tigelinha (tyawan)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tijolos</name>
+		<yomi>tijolos</yomi>
+		<kubun>Leve diretamente ao Centro de Limpeza</kubun>
+		<zyouken>Mas, somente pequenas quantidades.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>tijolos,tijolos</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tinta da impressora (vazia)</name>
+		<yomi>tinta da impressora (vazia)</yomi>
+		<kubun>Coletado pelo revendedor</kubun>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>tinta da impressora (vazia),tinta da impressora (vazia)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tintas e derivados</name>
+		<yomi>tintas e derivados</yomi>
+		<kubun>Não Coletado</kubun>
+		<zyouken>Consulte o vendedor.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>tintas e derivados,tintas e derivados</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tissue (lenço de papel)</name>
+		<yomi>tissue (lenço de papel)</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>tissue (lenço de papel),tissue (lenço de papel)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>toalete para animais de estimação</name>
+		<yomi>toalete para animais de estimação</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Retire as fezes do interior e jogue-as no "lixo combustível".</zyouken>
+		<bunrui>Animais</bunrui>
+		<keyword>toalete para animais de estimação,toalete para animais de estimação</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>toalha</name>
+		<yomi>toalha</yomi>
+		<kubun>Lixo Combustível (MOYASERU) </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>toalha,toalha</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>torradeira ou tostadeira</name>
+		<yomi>torradeira ou tostadeira</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>torradeira ou tostadeira,torradeira ou tostadeira</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>travesseiro</name>
+		<yomi>travesseiro</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Se o material de enchimento for material combustível (algodão ou casca de trigo sarraceno), descarta-lo no "lixo combustível".</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>travesseiro,travesseiro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>trenó</name>
+		<yomi>trenó</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>trenó,trenó</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>triciclo</name>
+		<yomi>triciclo</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>triciclo,triciclo</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tripé</name>
+		<yomi>tripé</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<bunrui>Lazer</bunrui>
+		<keyword>tripé,tripé</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tubo de pasta de dente</name>
+		<yomi>tubo de pasta de dente</yomi>
+		<kubun>Plástico Reciclável (PURA) </kubun>
+		<zyouken>Lave bem e descarte.</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>tubo de pasta de dente,tubo de pasta de dente</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tubo de PVC (somente de uso doméstico)</name>
+		<yomi>tubo de PVC (somente de uso doméstico)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Descarte após cortar em pedaços de menos de 30 cm de comprimento.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>tubo de PVC (somente de uso doméstico),tubo de PVC (somente de uso doméstico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>tupperware</name>
+		<yomi>tupperware</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>tupperware,tupperware</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>u</on>
+		<name>umidificador</name>
+		<yomi>umidificador</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>umidificador,umidificador</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vara de pesca</name>
+		<yomi>vara de pesca</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Mas, somente se puder ser diminuído em tamanho menor que 1 metro. Os maiores, descarte no lixo de grande porte".</zyouken>
+		<bunrui>Lazer</bunrui>
+		<keyword>vara de pesca,vara de pesca</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vara de varal</name>
+		<yomi>vara de varal</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>Aqueles até 180cm de comprimento.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>vara de varal,vara de varal</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vaso</name>
+		<yomi>vaso</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>vaso,vaso</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vaso de flor (cerâmica)</name>
+		<yomi>vaso de flor (cerâmica)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>vaso de flor (cerâmica),vaso de flor (cerâmica)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vaso de flor (plástico)</name>
+		<yomi>vaso de flor (plástico)</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Aqueles cujo tamanho caiba no saco de lixo e cujo peso possa ser carregado sem rasgar o saco, podem ser descartadas no "lixo não-queimável". Maiores que o tamanho citado, descarte no "lixo de grande porte".</zyouken>
+		<bunrui>Jardinagem,Agricultura</bunrui>
+		<keyword>vaso de flor (plástico),vaso de flor (plástico)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vassoura</name>
+		<yomi>vassoura</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>As vassouras compridas devem ser descartadas no "lixo de grande porte".</zyouken>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>vassoura,vassoura</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>ventilador</name>
+		<yomi>ventilador</yomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>ventilador,ventilador</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vidro</name>
+		<yomi>vidro</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<zyouken>Embrulhe com jornal e escreva [ガラス] no saco de lixo. As garrafas de vidro de bebidas devem ser descartadas nas cestas de "garrafas vazias" separadas por cor.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>vidro,vidro</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vidro de algas (nori)</name>
+		<yomi>vidro de algas (nori)</yomi>
+		<kubun>Garrafas Vazias (AKIBIN)</kubun>
+		<zyouken>Retire a tampa e coloque nas cestas separadas por cores. Descarte as tampas de plástico no "lixo de plástico reciclável".</zyouken>
+		<bunrui>Alimentos</bunrui>
+		<keyword>vidro de algas (nori),vidro de algas (nori)</keyword>
+	</gomi>
+	<gomi>
+		<gyou>tuv</gyou>
+		<on>v</on>
+		<name>vidro de perfume</name>
+		<yomi>vidro de perfume</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Artigos de uso diario</bunrui>
+		<keyword>vidro de perfume,vidro de perfume</keyword>
+	</gomi>
+	<gomi>
+		<gyou>wxyz</gyou>
+		<on>x</on>
+		<name>xícara para chá</name>
+		<yomi>xícara para chá</yomi>
+		<kubun>Lixo Não-Combustível (MOYASENAI)  </kubun>
+		<bunrui>Alimentos</bunrui>
+		<keyword>xícara para chá,xícara para chá</keyword>
+	</gomi>
+	<gomi>
+		<gyou>wxyz</gyou>
+		<on>z</on>
+		<name>zinco</name>
+		<yomi>zinco</yomi>
+		<kubun>Lixos de Grande Porte (SODAI GOMI)</kubun>
+		<zyouken>O comprimento deve ser menor que 180 cm.
+Para comprimentos maiores, consulte o centro de limpeza, tel: 0778-28-1370.</zyouken>
+		<bunrui>Moradia</bunrui>
+		<keyword>zinco,zinco</keyword>
+	</gomi>
+	<gomi>
+		<kubun>Caixa coletora específica para eletrodomésticos de pequeno porte(KOGATAKADEN)/Lixo Não-Combustível (MOYASENAI)/Lixos de Grande Porte (SODAI GOMI)  </kubun>
+		<zyouken>Retirar a pilha/bateria.Os eletrodomésticos inferiores a 16x27cm, podem ser descartados nas caixas coletoras de eletrodomésticos de pequeno porte ou coloque o eletrodoméstico em saco de lixo adequado, no tamanho do aparelho para que não rasgue e jogue no lixo não incinerável.Outros tamanhos descarte no "lixo de grande porte". </zyouken>
+		<bunrui>Aparelhos eletricos</bunrui>
+		<keyword>,</keyword>
+	</gomi>
+</dataroot>

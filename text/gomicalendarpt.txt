@@ -1,0 +1,42 @@
+﻿#
+# ◆１カラム目が # の行はコメントとなる．
+#   【注意】HTMLのコメント <!-- ... --> と誤解しないこと．
+# ◆データ定義の形式は
+#     キー:
+#       文字列データ
+# ◆１カラム目から始まりコロンで終る行は後続する文字列データのキーと解釈される．
+# ◆文字列データは１カラム目が半角スペースかタブで始まらなければならない．
+# ◆文字列データ内の %d はループカウンターに置き換えられる．
+# ◆文字列データ内の ${xyz} は XML の対応する文字列に置き換えられる．
+#
+
+# gomisyusyubi -- mySel
+mySel:
+  ${dataroot.gomisyusyubi[%d].gyou}
+
+# gomisyusyubi -- myList
+myList:
+  <li data-filtertext=${dataroot.gomisyusyubi[%d].keyword}>
+    <a href='#no%d'>${dataroot.gomisyusyubi[%d].name}</a>
+  </li>
+
+# gomisyusyubi -- myContents
+myContents:
+  <div data-role='page' id='no%d' data-url='no%d' data-add-back-btn='true'>
+    <div data-role='header' align='center'>
+      <image src='image/gomicalendarimage/4_1_gomicalendar.png' width='200' alt='gomicalendar'>
+    </div>
+    <div data-role='content'>
+# ▼▼▼▼▼以下を変更してください。<h4>の中の<br>は改行です。▼▼▼▼▼
+      <h2>${dataroot.gomisyusyubi[%d].name}</h2>
+      <h4>Lixo Queimável -Moyaseru- (Toda semana)：${dataroot.gomisyusyubi[%d].kubun1}</h4>
+      <h4>Plástico Reciclável -PURA- (Toda semana)：${dataroot.gomisyusyubi[%d].kubun2}</h4>
+      <h4>Lixo Não-Queimável -Moyasenai- (Duas vezes/mês)：${dataroot.gomisyusyubi[%d].kubun3}</h4>
+      <h4>Lixo Reciclável -Shigengomi- e lixo tóxico -Yūgaigomi- (Duas vezes/mês)：${dataroot.gomisyusyubi[%d].kubun4}</h4>
+      <h4>observações：${dataroot.gomisyusyubi[%d].bikou}</h4>
+      <h4><br>資源を次の世代に。。。</h4>
+# ▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲▲
+    </div>
+    <div data-role='footer' data-position='fixed' align='center'>
+    </div>
+  </div>

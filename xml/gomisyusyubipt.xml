@@ -1,0 +1,3037 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<dataroot>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Ainoki-chō</name>
+		<yomi>Ainoki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ainoki-chō,Ainoki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Aoba-chō</name>
+		<yomi>Aoba-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Aoba-chō,Aoba-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Akasaka-chō</name>
+		<yomi>Akasaka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Akasaka-chō,Akasaka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Akatani-chō</name>
+		<yomi>Akatani-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Akatani-chō,Akatani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Ajimano-chō</name>
+		<yomi>Ajimano-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Ajimano-chō,Ajimano-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Ajimanodanchi</name>
+		<yomi>Ajimanodanchi</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Ajimanodanchi,Ajimanodanchi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Azuma-chō</name>
+		<yomi>Azuma-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Azuma-chō,Azuma-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Aratani-chō</name>
+		<yomi>Aratani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Aratani-chō,Aratani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Asahi</name>
+		<yomi>Awatabe-chō Asahi</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Asahi,Awatabe-chō Asahi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Kuratani</name>
+		<yomi>Awatabe-chō Kuratani</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Kuratani,Awatabe-chō Kuratani</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Sakae</name>
+		<yomi>Awatabe-chō Sakae</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Sakae,Awatabe-chō Sakae</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Tominaga</name>
+		<yomi>Awatabe-chō Tominaga</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Tominaga,Awatabe-chō Tominaga</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Nishiyama</name>
+		<yomi>Awatabe-chō Nishiyama</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Nishiyama,Awatabe-chō Nishiyama</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Hōei</name>
+		<yomi>Awatabe-chō Hōei</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Hōei,Awatabe-chō Hōei</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awatabe-chō Hōrai</name>
+		<yomi>Awatabe-chō Hōrai</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Awatabe-chō Hōrai,Awatabe-chō Hōrai</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>Awano-chō</name>
+		<yomi>Awano-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Awano-chō,Awano-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>a</on>
+		<name>An'yōji-chō</name>
+		<yomi>An'yōji-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>An'yōji-chō,An'yōji-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Iehisa-chō</name>
+		<yomi>Iehisa-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Iehisa-chō,Iehisa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Ikeizumi-chō</name>
+		<yomi>Ikeizumi-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Ikeizumi-chō,Ikeizumi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Ikenokami-chō</name>
+		<yomi>Ikenokami-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Ikenokami-chō,Ikenokami-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Ichinono-chō</name>
+		<yomi>Ichinono-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ichinono-chō,Ichinono-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Inayose-chō</name>
+		<yomi>Inayose-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Inayose-chō,Inayose-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Imajuku-chō</name>
+		<yomi>Imajuku-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Imajuku-chō,Imajuku-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Iritani-chō</name>
+		<yomi>Iritani-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Iritani-chō,Iritani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Iwauchi-chō</name>
+		<yomi>Iwauchi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Iwauchi-chō,Iwauchi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>i</on>
+		<name>Iwamoto-chō</name>
+		<yomi>Iwamoto-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Iwamoto-chō,Iwamoto-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>u</on>
+		<name>Umazukajūtaku</name>
+		<yomi>Umazukajūtaku</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Umazukajūtaku,Umazukajūtaku</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>u</on>
+		<name>Uryū-chō</name>
+		<yomi>Uryū-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Uryū-chō,Uryū-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>u</on>
+		<name>Uryūno-chō</name>
+		<yomi>Uryūno-chō</yomi>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Uryūno-chō,Uryūno-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Oizu-chō</name>
+		<yomi>Oizu-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Oizu-chō,Oizu-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōshio-chō</name>
+		<yomi>Ōshio-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Ōshio-chō,Ōshio-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōtaki-chō</name>
+		<yomi>Ōtaki-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Ōtaki-chō,Ōtaki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōtani-chō</name>
+		<yomi>Ōtani-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ōtani-chō,Ōtani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōde-chō</name>
+		<yomi>Ōde-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ōde-chō,Ōde-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōhira-chō</name>
+		<yomi>Ōhira-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Ōhira-chō,Ōhira-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōmushi-chō</name>
+		<yomi>Ōmushi-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Ōmushi-chō,Ōmushi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōmushihon-chō</name>
+		<yomi>Ōmushihon-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Ōmushihon-chō,Ōmushihon-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōmushihon-chō Shōrenge</name>
+		<yomi>Ōmushihon-chō Shōrenge</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Ōmushihon-chō Shōrenge,Ōmushihon-chō Shōrenge</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Ōya-chō </name>
+		<yomi>Ōya-chō </yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ōya-chō ,Ōya-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Okamoto-chō </name>
+		<yomi>Okamoto-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Okamoto-chō ,Okamoto-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Okumiyadani-chō </name>
+		<yomi>Okumiyadani-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Okumiyadani-chō ,Okumiyadani-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Oshida 1 chōme</name>
+		<yomi>Oshida 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Oshida 1 chōme,Oshida 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Oshida 2 chōme</name>
+		<yomi>Oshida 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Oshida 2 chōme,Oshida 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>o</on>
+		<name>Onodani-chō </name>
+		<yomi>Onodani-chō </yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Onodani-chō ,Onodani-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kasugano-chō </name>
+		<yomi>Kasugano-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Kasugano-chō ,Kasugano-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kataya-chō </name>
+		<yomi>Kataya-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kataya-chō ,Kataya-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Katsura-chō </name>
+		<yomi>Katsura-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Katsura-chō ,Katsura-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamiōda-chō
+ (Na estrada das plantações )</name>
+		<yomi>Kamiōda-chō
+ (Na estrada das plantações )</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Kamiōda-chō
+ (Na estrada das plantações ),Kamiōda-chō
+ (Na estrada das plantações )</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamiōda-chō </name>
+		<yomi>Kamiōda-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Kamiōda-chō ,Kamiōda-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamiōtsubo-chō </name>
+		<yomi>Kamiōtsubo-chō </yomi>
+		<bikou>*Não há coleta de latas e garrafas pets</bikou>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Kamiōtsubo-chō ,Kamiōtsubo-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamikurokawa-chō </name>
+		<yomi>Kamikurokawa-chō </yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Kamikurokawa-chō ,Kamikurokawa-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamikomatsu-chō </name>
+		<yomi>Kamikomatsu-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Kamikomatsu-chō ,Kamikomatsu-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamishime-chō </name>
+		<yomi>Kamishime-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Kamishime-chō ,Kamishime-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kamimakara-chō </name>
+		<yomi>Kamimakara-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Kamimakara-chō ,Kamimakara-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kayadani-chō </name>
+		<yomi>Kayadani-chō </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Kayadani-chō ,Kayadani-chō </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Karasugadaira-chō</name>
+		<yomi>Karasugadaira-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Karasugadaira-chō,Karasugadaira-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>Gakuen Danchi</name>
+		<yomi>Gakuen Danchi</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Gakuen Danchi,Gakuen Danchi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kita-chō</name>
+		<yomi>Kita-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Kita-chō,Kita-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitaoyama-chō</name>
+		<yomi>Kitaoyama-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Kitaoyama-chō,Kitaoyama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitago 1 chōme</name>
+		<yomi>Kitago 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kitago 1 chōme,Kitago 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitago 2 chōme</name>
+		<yomi>Kitago 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kitago 2 chōme,Kitago 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitago 3 chōme</name>
+		<yomi>Kitago 3 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kitago 3 chōme,Kitago 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitago 4 chōme</name>
+		<yomi>Kitago 4 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kitago 4 chōme,Kitago 4 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitasakashita-chō</name>
+		<yomi>Kitasakashita-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Kitasakashita-chō,Kitasakashita-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitasenpuku-chō</name>
+		<yomi>Kitasenpuku-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Kitasenpuku-chō,Kitasenpuku-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitahino Danchi</name>
+		<yomi>Kitahino Danchi</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Kitahino Danchi,Kitahino Danchi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kitayama-chō</name>
+		<yomi>Kitayama-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Kitayama-chō,Kitayama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kyōmachi 1 chōme</name>
+		<yomi>Kyōmachi 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kyōmachi 1 chōme,Kyōmachi 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kyōmachi 2 chōme</name>
+		<yomi>Kyōmachi 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kyōmachi 2 chōme,Kyōmachi 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kyōmachi 3 chōme</name>
+		<yomi>Kyōmachi 3 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Kyōmachi 3 chōme,Kyōmachi 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kiyone-chō</name>
+		<yomi>Kiyone-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Kiyone-chō,Kiyone-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kuzuoka-chō</name>
+		<yomi>Kuzuoka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Kuzuoka-chō,Kuzuoka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kudashi-chō</name>
+		<yomi>Kudashi-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Kudashi-chō,Kudashi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kutsukake-chō</name>
+		<yomi>Kutsukake-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Kutsukake-chō,Kutsukake-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kunikane-chō</name>
+		<yomi>Kunikane-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Kunikane-chō,Kunikane-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kunitaka 1 chōme</name>
+		<yomi>Kunitaka 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Kunitaka 1 chōme,Kunitaka 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kunitaka 2 chōme</name>
+		<yomi>Kunitaka 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Kunitaka 2 chōme,Kunitaka 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kunitaka 3 chōme</name>
+		<yomi>Kunitaka 3 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Kunitaka 3 chōme,Kunitaka 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kuninaka-chō</name>
+		<yomi>Kuninaka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Kuninaka-chō,Kuninaka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kōtōgahara-chō</name>
+		<yomi>Kōtōgahara-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Kōtōgahara-chō,Kōtōgahara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kōyō-chō</name>
+		<yomi>Kōyō-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Kōyō-chō,Kōyō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kokufu 1 chōme</name>
+		<yomi>Kokufu 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Kokufu 1 chōme,Kokufu 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kokufu 2 chōme</name>
+		<yomi>Kokufu 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Kokufu 2 chōme,Kokufu 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kosugi-chō</name>
+		<yomi>Kosugi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Kosugi-chō,Kosugi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Kono-chō</name>
+		<yomi>Kono-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Kono-chō,Kono-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Komatsu 1 chōme</name>
+		<yomi>Komatsu 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Komatsu 1 chōme,Komatsu 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Komatsu 2 chōme</name>
+		<yomi>Komatsu 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Komatsu 2 chōme,Komatsu 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>jkl</gyou>
+		<on>k</on>
+		<name>Komeguchihotokedani-chō</name>
+		<yomi>Komeguchihotokedani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Komeguchihotokedani-chō,Komeguchihotokedani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>g</on>
+		<name>Gobuichi-chō</name>
+		<yomi>Gobuichi-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Gobuichi-chō,Gobuichi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Saiwai-chō</name>
+		<yomi>Saiwai-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Saiwai-chō,Saiwai-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sadatomo-chō</name>
+		<yomi>Sadatomo-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Sadatomo-chō,Sadatomo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sawa-chō</name>
+		<yomi>Sawa-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Sawa-chō,Sawa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shibahara 1 chōme</name>
+		<yomi>Shibahara 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Shibahara 1 chōme,Shibahara 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shibahara 2 chōme</name>
+		<yomi>Shibahara 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Shibahara 2 chōme,Shibahara 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shibahara 3 chōme</name>
+		<yomi>Shibahara 3 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Shibahara 3 chōme,Shibahara 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shibahara 4 chōme</name>
+		<yomi>Shibahara 4 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Shibahara 4 chōme,Shibahara 4 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shibahara 5 chōme</name>
+		<yomi>Shibahara 5 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Shibahara 5 chōme,Shibahara 5 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shima-chō</name>
+		<yomi>Shima-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Shima-chō,Shima-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimizugashira-chō</name>
+		<yomi>Shimizugashira-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Shimizugashira-chō,Shimizugashira-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimoōda-chō</name>
+		<yomi>Shimoōda-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shimoōda-chō,Shimoōda-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimokurokawa-chō</name>
+		<yomi>Shimokurokawa-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Shimokurokawa-chō,Shimokurokawa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimoshime-chō</name>
+		<yomi>Shimoshime-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Shimoshime-chō,Shimoshime-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimotoita</name>
+		<yomi>Shimotoita</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Shimotoita,Shimotoita</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimonakatsuhara-chō</name>
+		<yomi>Shimonakatsuhara-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Shimonakatsuhara-chō,Shimonakatsuhara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimohirabuki-chō</name>
+		<yomi>Shimohirabuki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shimohirabuki-chō,Shimohirabuki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shimobessho-chō</name>
+		<yomi>Shimobessho-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Shimobessho-chō,Shimobessho-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shō-chō</name>
+		<yomi>Shō-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Shō-chō,Shō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shōden-chō</name>
+		<yomi>Shōden-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Shōden-chō,Shōden-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shōbudani-chō</name>
+		<yomi>Shōbudani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Shōbudani-chō,Shōbudani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shōrenge-chō</name>
+		<yomi>Shōrenge-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Shōrenge-chō,Shōrenge-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shirōmaru-chō</name>
+		<yomi>Shirōmaru-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Shirōmaru-chō,Shirōmaru-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shirōmaru-chō(Fujinoki)</name>
+		<yomi>Shirōmaru-chō(Fujinoki)</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Shirōmaru-chō(Fujinoki),Shirōmaru-chō(Fujinoki)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shirosaki-chō</name>
+		<yomi>Shirosaki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shirosaki-chō,Shirosaki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shin-chō(Estrada 365)</name>
+		<yomi>Shin-chō(Estrada 365)</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shin-chō(Estrada 365),Shin-chō(Estrada 365)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shin-chō</name>
+		<yomi>Shin-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shin-chō,Shin-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinkono-chō</name>
+		<yomi>Shinkono-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Shinkono-chō,Shinkono-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinzaike-chō</name>
+		<yomi>Shinzaike-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Shinzaike-chō,Shinzaike-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shindō-chō</name>
+		<yomi>Shindō-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Shindō-chō,Shindō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinbo-chō</name>
+		<yomi>Shinbo-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shinbo-chō,Shinbo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinbo-chō</name>
+		<yomi>Shinbo-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Shinbo-chō,Shinbo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinbo 1 chōme</name>
+		<yomi>Shinbo 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Shinbo 1 chōme,Shinbo 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinbo 2 chōme</name>
+		<yomi>Shinbo 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Shinbo 2 chōme,Shinbo 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Shinmei-chō</name>
+		<yomi>Shinmei-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Shinmei-chō,Shinmei-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sugio-chō</name>
+		<yomi>Sugio-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Sugio-chō,Sugio-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sugisaki-chō</name>
+		<yomi>Sugisaki-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Sugisaki-chō,Sugisaki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sumiyoshi-chō</name>
+		<yomi>Sumiyoshi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Sumiyoshi-chō,Sumiyoshi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sengōdani-chō</name>
+		<yomi>Sengōdani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Sengōdani-chō,Sengōdani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Senpuku-chō(antiga rota 8)</name>
+		<yomi>Senpuku-chō(antiga rota 8)</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Senpuku-chō(antiga rota 8),Senpuku-chō(antiga rota 8)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Senpuku-chō(rota Takefu-Komeno)</name>
+		<yomi>Senpuku-chō(rota Takefu-Komeno)</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Senpuku-chō(rota Takefu-Komeno),Senpuku-chō(rota Takefu-Komeno)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Senpuku-chō</name>
+		<yomi>Senpuku-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Senpuku-chō,Senpuku-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>s</on>
+		<name>Sohara-chō</name>
+		<yomi>Sohara-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Sohara-chō,Sohara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Takaoka-chō</name>
+		<yomi>Takaoka-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Takaoka-chō,Takaoka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Takagi-chō</name>
+		<yomi>Takagi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Takagi-chō,Takagi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Takase 1 chōme</name>
+		<yomi>Takase 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Takase 1 chōme,Takase 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Takase 2 chōme</name>
+		<yomi>Takase 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Takase 2 chōme,Takase 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Takamori-chō</name>
+		<yomi>Takamori-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Takamori-chō,Takamori-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Takefuyanagi-chō</name>
+		<yomi>Takefuyanagi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Takefuyanagi-chō,Takefuyanagi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>Chūō 1 chōme</name>
+		<yomi>Chūō 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Chūō 1 chōme,Chūō 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>Chūō 2 chōme</name>
+		<yomi>Chūō 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Chūō 2 chōme,Chūō 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>c</on>
+		<name>Chōgo-chō</name>
+		<yomi>Chōgo-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Chōgo-chō,Chōgo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tsuka-chō</name>
+		<yomi>Tsuka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Tsuka-chō,Tsuka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tsukabara-chō</name>
+		<yomi>Tsukabara-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Tsukabara-chō,Tsukabara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tsukimi-chō</name>
+		<yomi>Tsukimi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Tsukimi-chō,Tsukimi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tsuchiyamakodani-chō</name>
+		<yomi>Tsuchiyamakodani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Tsuchiyamakodani-chō,Tsuchiyamakodani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tsunehisa-chō</name>
+		<yomi>Tsunehisa-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Tsunehisa-chō,Tsunehisa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tsunehisa Danchi</name>
+		<yomi>Tsunehisa Danchi</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Tsunehisa Danchi,Tsunehisa Danchi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Teraji-chō</name>
+		<yomi>Teraji-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Teraji-chō,Teraji-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tennō-chō</name>
+		<yomi>Tennō-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Tennō-chō,Tennō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tokuma-chō</name>
+		<yomi>Tokuma-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Tokuma-chō,Tokuma-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Totani-chō</name>
+		<yomi>Totani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Totani-chō,Totani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Todoroi-chō</name>
+		<yomi>Todoroi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Todoroi-chō,Todoroi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tono-chō</name>
+		<yomi>Tono-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Tono-chō,Tono-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Tobe-chō</name>
+		<yomi>Tobe-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Tobe-chō,Tobe-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>tuv</gyou>
+		<on>t</on>
+		<name>Ton'yamachi-chō</name>
+		<yomi>Ton'yamachi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ton'yamachi-chō,Ton'yamachi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakai-chō</name>
+		<yomi>Nakai-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Nakai-chō,Nakai-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakain-chō</name>
+		<yomi>Nakain-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Nakain-chō,Nakain-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakashinjō-chō</name>
+		<yomi>Nakashinjō-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Nakashinjō-chō,Nakashinjō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakatsuhara-chō</name>
+		<yomi>Nakatsuhara-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Nakatsuhara-chō,Nakatsuhara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakatsuyama-chō</name>
+		<yomi>Nakatsuyama-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Nakatsuyama-chō,Nakatsuyama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakano-chō</name>
+		<yomi>Nakano-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Nakano-chō,Nakano-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakahirabuki-chō</name>
+		<yomi>Nakahirabuki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Nakahirabuki-chō,Nakahirabuki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakayama</name>
+		<yomi>Nakayama</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Nakayama,Nakayama</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nakayama-chō</name>
+		<yomi>Nakayama-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Nakayama-chō,Nakayama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nagao-chō</name>
+		<yomi>Nagao-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Nagao-chō,Nagao-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nagatani-chō</name>
+		<yomi>Nagatani-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Nagatani-chō,Nagatani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nagatoro-chō</name>
+		<yomi>Nagatoro-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Nagatoro-chō,Nagatoro-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Namigaki-chō</name>
+		<yomi>Namigaki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Namigaki-chō,Namigaki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nawate-chō</name>
+		<yomi>Nawate-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Nawate-chō,Nawate-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nikaidō-chō</name>
+		<yomi>Nikaidō-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Nikaidō-chō,Nikaidō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nishio-chō</name>
+		<yomi>Nishio-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Nishio-chō,Nishio-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nishikashio-chō</name>
+		<yomi>Nishikashio-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Sexta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Nishikashio-chō,Nishikashio-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nishiki-chō</name>
+		<yomi>Nishiki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Nishiki-chō,Nishiki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nishikōchi-chō</name>
+		<yomi>Nishikōchi-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Nishikōchi-chō,Nishikōchi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nishishōzaka-chō</name>
+		<yomi>Nishishōzaka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Nishishōzaka-chō,Nishishōzaka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nishitani-chō</name>
+		<yomi>Nishitani-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Nishitani-chō,Nishitani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nyūnogō-chō</name>
+		<yomi>Nyūnogō-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Nyūnogō-chō,Nyūnogō-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nooka-chō</name>
+		<yomi>Nooka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Nooka-chō,Nooka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>n</on>
+		<name>Nogami-chō</name>
+		<yomi>Nogami-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Nogami-chō,Nogami-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hagiwara-chō</name>
+		<yomi>Hagiwara-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Hagiwara-chō,Hagiwara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Haguri-chō</name>
+		<yomi>Haguri-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Haguri-chō,Haguri-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hata-chō</name>
+		<yomi>Hata-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Hata-chō,Hata-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hachikoku-chō</name>
+		<yomi>Hachikoku-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Hachikoku-chō,Hachikoku-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hachiman 1 chōme</name>
+		<yomi>Hachiman 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Hachiman 1 chōme,Hachiman 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hachiman 2 chōme</name>
+		<yomi>Hachiman 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Hachiman 2 chōme,Hachiman 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Haruyama-chō</name>
+		<yomi>Haruyama-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Haruyama-chō,Haruyama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>Bajōme-chō</name>
+		<yomi>Bajōme-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Bajōme-chō,Bajōme-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>Bandai-chō</name>
+		<yomi>Bandai-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Bandai-chō,Bandai-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hiodani-chō</name>
+		<yomi>Hiodani-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Hiodani-chō,Hiodani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Higashikashio-chō</name>
+		<yomi>Higashikashio-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Higashikashio-chō,Higashikashio-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Higashishōzakai-chō</name>
+		<yomi>Higashishōzakai-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Higashishōzakai-chō,Higashishōzakai-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Higashisenpuku-chō</name>
+		<yomi>Higashisenpuku-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Higashisenpuku-chō,Higashisenpuku-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hisaka-chō</name>
+		<yomi>Hisaka-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Hisaka-chō,Hisaka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hinomi 1 chōme</name>
+		<yomi>Hinomi 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Hinomi 1 chōme,Hinomi 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hinomi 2 chōme</name>
+		<yomi>Hinomi 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Hinomi 2 chōme,Hinomi 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Himekawa 1  chōme</name>
+		<yomi>Himekawa 1  chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Himekawa 1  chōme,Himekawa 1  chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Himekawa 2  chōme</name>
+		<yomi>Himekawa 2  chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Himekawa 2  chōme,Himekawa 2  chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hiraide 1 chōme</name>
+		<yomi>Hiraide 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Hiraide 1 chōme,Hiraide 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hiraide 2 chōme</name>
+		<yomi>Hiraide 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Hiraide 2 chōme,Hiraide 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hiraide 3 chōme</name>
+		<yomi>Hiraide 3 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Hiraide 3 chōme,Hiraide 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hirabayashi-chō</name>
+		<yomi>Hirabayashi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Hirabayashi-chō,Hirabayashi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hirose-chō</name>
+		<yomi>Hirose-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Hirose-chō,Hirose-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hirosehibarigaoka</name>
+		<yomi>Hirosehibarigaoka</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Hirosehibarigaoka,Hirosehibarigaoka</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fukakusa 1 chōme</name>
+		<yomi>Fukakusa 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Fukakusa 1 chōme,Fukakusa 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fukakusa 2 chōme</name>
+		<yomi>Fukakusa 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Fukakusa 2 chōme,Fukakusa 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fujinoki-chō</name>
+		<yomi>Fujinoki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Fujinoki-chō,Fujinoki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fujimigaoka 1 chōme</name>
+		<yomi>Fujimigaoka 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Fujimigaoka 1 chōme,Fujimigaoka 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fujimigaoka  2 chōme</name>
+		<yomi>Fujimigaoka  2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Fujimigaoka  2 chōme,Fujimigaoka  2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fujimidai</name>
+		<yomi>Fujimidai</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Fujimidai,Fujimidai</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fuchū 1 chōme</name>
+		<yomi>Fuchū 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Fuchū 1 chōme,Fuchū 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fuchū 1 chōme
+(Estrada Provincial Takefu-Ono)</name>
+		<yomi>Fuchū 1 chōme
+(Estrada Provincial Takefu-Ono)</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Fuchū 1 chōme
+(Estrada Provincial Takefu-Ono),Fuchū 1 chōme
+(Estrada Provincial Takefu-Ono)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fuchū 2 chōme </name>
+		<yomi>Fuchū 2 chōme </yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Fuchū 2 chōme ,Fuchū 2 chōme </keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fuchū 3 chōme</name>
+		<yomi>Fuchū 3 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Ter</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Fuchū 3 chōme,Fuchū 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>def</gyou>
+		<on>f</on>
+		<name>Fumuro-chō</name>
+		<yomi>Fumuro-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Fumuro-chō,Fumuro-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>Bunkyō 1 chōme</name>
+		<yomi>Bunkyō 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Bunkyō 1 chōme,Bunkyō 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>Bunkyō 2 chōme</name>
+		<yomi>Bunkyō 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Bunkyō 2 chōme,Bunkyō 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Heiwa-chō</name>
+		<yomi>Heiwa-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Heiwa-chō,Heiwa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>abc</gyou>
+		<on>b</on>
+		<name>Betsuin-chō</name>
+		<yomi>Betsuin-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Betsuin-chō,Betsuin-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hourai-chō</name>
+		<yomi>Hourai-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Hourai-chō,Hourai-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hoyama-chō</name>
+		<yomi>Hoyama-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Hoyama-chō,Hoyama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Hori-chō</name>
+		<yomi>Hori-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Hori-chō,Hori-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Horikawa-chō</name>
+		<yomi>Horikawa-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Horikawa-chō,Horikawa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Honda 1 chōme</name>
+		<yomi>Honda 1 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Honda 1 chōme,Honda 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Honda 2 chōme</name>
+		<yomi>Honda 2 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Honda 2 chōme,Honda 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Honda 3 chōme</name>
+		<yomi>Honda 3 chōme</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Honda 3 chōme,Honda 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Honbo-chō</name>
+		<yomi>Honbo-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quarta-feira</kubun4>
+		<keyword>Honbo-chō,Honbo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>ghi</gyou>
+		<on>h</on>
+		<name>Honmachi-chō</name>
+		<yomi>Honmachi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Honmachi-chō,Honmachi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Maindotaun</name>
+		<yomi>Maindotaun</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Maindotaun,Maindotaun</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Makara-chō</name>
+		<yomi>Makara-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Makara-chō,Makara-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Maki-chō</name>
+		<yomi>Maki-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Maki-chō,Maki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Matsumori-chō(Leste da estação da JR)</name>
+		<yomi>Matsumori-chō(Leste da estação da JR)</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Matsumori-chō(Leste da estação da JR),Matsumori-chō(Leste da estação da JR)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Matsumori-chō(Oeste da Estação da JR)</name>
+		<yomi>Matsumori-chō(Oeste da Estação da JR)</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Matsumori-chō(Oeste da Estação da JR),Matsumori-chō(Oeste da Estação da JR)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Maruka-chō</name>
+		<yomi>Maruka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Maruka-chō,Maruka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Mizuma-chō</name>
+		<yomi>Mizuma-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Mizuma-chō,Mizuma-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Mitsukuchi-chō</name>
+		<yomi>Mitsukuchi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Mitsukuchi-chō,Mitsukuchi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Mitsumata-chō</name>
+		<yomi>Mitsumata-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Mitsumata-chō,Mitsumata-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Mitsuya-chō</name>
+		<yomi>Mitsuya-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Mitsuya-chō,Mitsuya-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Midorinomura</name>
+		<yomi>Midorinomura</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Midorinomura,Midorinomura</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minami 1 chōme</name>
+		<yomi>Minami 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Minami 1 chōme,Minami 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minami 2 chōme</name>
+		<yomi>Minami 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Minami 2 chōme,Minami 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minami 3 chōme</name>
+		<yomi>Minami 3 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Minami 3 chōme,Minami 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minamioyama-chō</name>
+		<yomi>Minamioyama-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Minamioyama-chō,Minamioyama-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minamisakashita-chō</name>
+		<yomi>Minamisakashita-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Minamisakashita-chō,Minamisakashita-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minaminaka-chō</name>
+		<yomi>Minaminaka-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Minaminaka-chō,Minaminaka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Minowaki-chō</name>
+		<yomi>Minowaki-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Minowaki-chō,Minowaki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Miyadani-chō</name>
+		<yomi>Miyadani-chō</yomi>
+		<bikou>*Não há coleta de latas e garrafas pets</bikou>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Miyadani-chō,Miyadani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Miyuki-chō</name>
+		<yomi>Miyuki-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Miyuki-chō,Miyuki-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Myōhōji-chō</name>
+		<yomi>Myōhōji-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Myōhōji-chō,Myōhōji-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Mukaishinbo-chō</name>
+		<yomi>Mukaishinbo-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Mukaishinbo-chō,Mukaishinbo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Mukōgaoka-chō</name>
+		<yomi>Mukōgaoka-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Mukōgaoka-chō,Mukōgaoka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Murakuni 1 chōme</name>
+		<yomi>Murakuni 1 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Murakuni 1 chōme,Murakuni 1 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Murakuni 2 chōme</name>
+		<yomi>Murakuni 2 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Murakuni 2 chōme,Murakuni 2 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Murakuni 3 chōme</name>
+		<yomi>Murakuni 3 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Murakuni 3 chōme,Murakuni 3 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Murakuni 4 chōme</name>
+		<yomi>Murakuni 4 chōme</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Murakuni 4 chōme,Murakuni 4 chōme</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Murotani-chō</name>
+		<yomi>Murotani-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Murotani-chō,Murotani-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Moto-machi</name>
+		<yomi>Moto-machi</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Moto-machi,Moto-machi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>mno</gyou>
+		<on>m</on>
+		<name>Morihisa-chō</name>
+		<yomi>Morihisa-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Sexta-feira</kubun4>
+		<keyword>Morihisa-chō,Morihisa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yasudo-chō</name>
+		<yomi>Yasudo-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Yasudo-chō,Yasudo-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yanagimoto-machi</name>
+		<yomi>Yanagimoto-machi</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Yanagimoto-machi,Yanagimoto-machi</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yahanashi-chō</name>
+		<yomi>Yahanashi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Yahanashi-chō,Yahanashi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yafune-chō</name>
+		<yomi>Yafune-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Yafune-chō,Yafune-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yamamuro-chō</name>
+		<yomi>Yamamuro-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Terça-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Yamamuro-chō,Yamamuro-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yukimatsu-chō(Ao Leste da JR)</name>
+		<yomi>Yukimatsu-chō(Ao Leste da JR)</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Yukimatsu-chō(Ao Leste da JR),Yukimatsu-chō(Ao Leste da JR)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yukimatsu-chō(A Oeste da JR)</name>
+		<yomi>Yukimatsu-chō(A Oeste da JR)</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Terça-feira</kubun4>
+		<keyword>Yukimatsu-chō(A Oeste da JR),Yukimatsu-chō(A Oeste da JR)</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yutaka-chō</name>
+		<yomi>Yutaka-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Yutaka-chō,Yutaka-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yuya-chō</name>
+		<yomi>Yuya-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Yuya-chō,Yuya-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yokawa-chō</name>
+		<yomi>Yokawa-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>1ª e 3ª Terça-feira</kubun4>
+		<keyword>Yokawa-chō,Yokawa-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yokoichi-chō</name>
+		<yomi>Yokoichi-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quinta-feira</kubun4>
+		<keyword>Yokoichi-chō,Yokoichi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yokozumi-chō</name>
+		<yomi>Yokozumi-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Yokozumi-chō,Yokozumi-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yokone-chō</name>
+		<yomi>Yokone-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Yokone-chō,Yokone-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>y</on>
+		<name>Yoshimura-chō</name>
+		<yomi>Yoshimura-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Yoshimura-chō,Yoshimura-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>pqrs</gyou>
+		<on>r</on>
+		<name>Ryōke-chō</name>
+		<yomi>Ryōke-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>1ª e 3ª Segunda-feira</kubun4>
+		<keyword>Ryōke-chō,Ryōke-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>w</on>
+		<name>Wakatake-chō</name>
+		<yomi>Wakatake-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qui</kubun2>
+		<kubun3>2ª e 4ª Quinta-feira</kubun3>
+		<kubun4>2ª e 4ª Sexta-feira</kubun4>
+		<keyword>Wakatake-chō,Wakatake-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>w</on>
+		<name>Wakamatsu-chō</name>
+		<yomi>Wakamatsu-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>2ª e 4ª Quinta-feira</kubun4>
+		<keyword>Wakamatsu-chō,Wakamatsu-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>w</on>
+		<name>Wakamiya-chō</name>
+		<yomi>Wakamiya-chō</yomi>
+		<kubun1>Seg/Qui</kubun1>
+		<kubun2>Qua</kubun2>
+		<kubun3>2ª e 4ª Quarta-feira</kubun3>
+		<kubun4>1ª e 3ª Quarta-feira</kubun4>
+		<keyword>Wakamiya-chō,Wakamiya-chō</keyword>
+	</gomisyusyubi>
+	<gomisyusyubi>
+		<gyou>wxyz</gyou>
+		<on>w</on>
+		<name>Wagasu-chō</name>
+		<yomi>Wagasu-chō</yomi>
+		<kubun1>Ter/Sex</kubun1>
+		<kubun2>Seg</kubun2>
+		<kubun3>2ª e 4ª Segunda-feira</kubun3>
+		<kubun4>2ª e 4ª Segunda-feira</kubun4>
+		<keyword>Wagasu-chō,Wagasu-chō</keyword>
+	</gomisyusyubi>
+</dataroot>
